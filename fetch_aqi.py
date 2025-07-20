@@ -19,6 +19,9 @@ def safe_sensor_get(sensor_id, max_retries=3, retry_delay=2):
             time.sleep(retry_delay)
     return None
 
+import os
+os.makedirs('data', exist_ok=True)  # Ensure directory exists
+
 try:
     mumbai_bbox = [72.7759, 18.8935, 72.9762, 19.2550]
     

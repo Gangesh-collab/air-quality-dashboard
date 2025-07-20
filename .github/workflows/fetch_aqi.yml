@@ -27,6 +27,7 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install pandas openaq
+        pip install requests 
         
     - name: Verify data directory exists
       run: mkdir -p data

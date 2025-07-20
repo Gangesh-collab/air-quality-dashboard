@@ -3,17 +3,21 @@ name: Air Quality Data Fetch
 on:
   schedule:
     - cron: '*/15 * * * *'  # Runs every 15 minutes
-  workflow_dispatch:  # Allows manual triggering
+  workflow_dispatch:        # Allows manual triggering
 
 jobs:
   fetch-data:
     runs-on: ubuntu-latest
-    timeout-minutes: 5  # Prevents hanging jobs
+    timeout-minutes: 5      # Prevents hanging jobs
+    permissions:
+      contents: write      # Required for pushing changes
     
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
-      
+      with:
+        fetch-depth: 0     # Needed for proper git history
+    
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
@@ -21,18 +25,33 @@ jobs:
         
     - name: Install dependencies
       run: |
+        python -m pip install --upgrade pip
         pip install pandas openaq
         
-    - name: Make script executable
-      run: chmod +x fetch_aqi.py
+    - name: Verify data directory exists
+      run: mkdir -p data
       
     - name: Run data collection
       run: python fetch_aqi.py
       
-    - name: Commit and push changes
+    - name: Verify CSV was created
+      id: verify
       run: |
-        git config --global user.name "GitHub Actions"
-        git config --global user.email "actions@github.com"
+        if [ ! -f "data/latest_aqi.csv" ]; then
+          echo "File data/latest_aqi.csv not found!"
+          exit 1
+        fi
+        
+    - name: Commit and push changes
+      if: steps.verify.outcome == 'success'
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Automatic authentication
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git add data/latest_aqi.csv
-        git diff-index --quiet HEAD || git commit -m "Auto-update AQI data [skip ci]"
-        git push
+        git diff --cached --quiet || {
+          git commit -m "Auto-update AQI data [skip ci]"
+          git pull --rebase
+          git push
+        }

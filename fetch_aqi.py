@@ -56,6 +56,8 @@ for Location_id in df['location_id'].unique():
         # Silently continue on error
         continue
 
+df = df[df['value'].notna()]
+
 # Step 4: Save to CSV (append if file exists)
 file_path = 'data/delhi_air_quality_data.csv'
 

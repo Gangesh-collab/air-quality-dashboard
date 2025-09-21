@@ -1,0 +1,679 @@
+﻿location_id,location_name,location_country,owner,sensor_id,sensor_name,parameter_name,parameter_units,parameter_display_name,value,latitude,longitude,last_updated,sysDate
+13,"Delhi Technological University, Delhi - CPCB",India,Unknown Governmental Organization,13866,no2 µg/m³,no2,µg/m³,NO₂ mass,40.3,28.744,77.12,2018-02-22T04:00:00Z,2025-09-21 14:46:44.541833
+13,"Delhi Technological University, Delhi - CPCB",India,Unknown Governmental Organization,24,o3 µg/m³,o3,µg/m³,O₃ mass,,28.744,77.12,,2025-09-21 14:46:44.541833
+13,"Delhi Technological University, Delhi - CPCB",India,Unknown Governmental Organization,13864,pm25 µg/m³,pm25,µg/m³,PM2.5,451.0,28.744,77.12,2018-02-22T04:00:00Z,2025-09-21 14:46:44.541833
+16,Civil Lines,India,Unknown Governmental Organization,33,co µg/m³,co,µg/m³,CO mass,,28.6787,77.2262,,2025-09-21 14:46:44.541833
+16,Civil Lines,India,Unknown Governmental Organization,32,no2 µg/m³,no2,µg/m³,NO₂ mass,,28.6787,77.2262,,2025-09-21 14:46:44.541833
+16,Civil Lines,India,Unknown Governmental Organization,31,pm10 µg/m³,pm10,µg/m³,PM10,,28.6787,77.2262,,2025-09-21 14:46:44.541833
+16,Civil Lines,India,Unknown Governmental Organization,34,pm25 µg/m³,pm25,µg/m³,PM2.5,,28.6787,77.2262,,2025-09-21 14:46:44.541833
+17,"R K Puram, Delhi - DPCC",India,Delhi Pollution Control Committee,12234782,co ppb,co,ppb,CO,0.46,28.563262,77.186937,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+17,"R K Puram, Delhi - DPCC",India,Delhi Pollution Control Committee,392,co µg/m³,co,µg/m³,CO mass,4300.0,28.563262,77.186937,2018-02-21T20:45:00Z,2025-09-21 14:46:44.541833
+17,"R K Puram, Delhi - DPCC",India,Delhi Pollution Control Committee,12234783,no ppb,no,ppb,NO,1.6,28.563262,77.186937,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+17,"R K Puram, Delhi - DPCC",India,Delhi Pollution Control Committee,12234784,no2 ppb,no2,ppb,NO₂,14.3,28.563262,77.186937,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+17,"R K Puram, Delhi - DPCC",India,Delhi Pollution Control Committee,36,no2 µg/m³,no2,µg/m³,NO₂ mass,77.6,28.563262,77.186937,2018-02-21T20:45:00Z,2025-09-21 14:46:44.541833
+17,"R K Puram, Delhi - DPCC",India,Delhi Pollution Control Committee,394,o3 µg/m³,o3,µg/m³,O₃ mass,95.33,28.563262,77.186937,2018-01-24T09:30:00Z,2025-09-21 14:46:44.541833
+17,"R K Puram, Delhi - DPCC",India,Delhi Pollution Control Committee,12234785,o3 µg/m³,o3,µg/m³,O₃ mass,71.3,28.563262,77.186937,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+17,"R K Puram, Delhi - DPCC",India,Delhi Pollution Control Committee,12234786,pm10 µg/m³,pm10,µg/m³,PM10,125.0,28.563262,77.186937,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+17,"R K Puram, Delhi - DPCC",India,Delhi Pollution Control Committee,399,pm10 µg/m³,pm10,µg/m³,PM10,339.0,28.563262,77.186937,2018-02-21T21:15:00Z,2025-09-21 14:46:44.541833
+17,"R K Puram, Delhi - DPCC",India,Delhi Pollution Control Committee,12234787,pm25 µg/m³,pm25,µg/m³,PM2.5,39.0,28.563262,77.186937,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+17,"R K Puram, Delhi - DPCC",India,Delhi Pollution Control Committee,35,pm25 µg/m³,pm25,µg/m³,PM2.5,201.0,28.563262,77.186937,2018-02-21T21:15:00Z,2025-09-21 14:46:44.541833
+17,"R K Puram, Delhi - DPCC",India,Delhi Pollution Control Committee,12234788,relativehumidity %,relativehumidity,%,RH,62.0,28.563262,77.186937,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+17,"R K Puram, Delhi - DPCC",India,Delhi Pollution Control Committee,12234789,so2 ppb,so2,ppb,SO₂,11.8,28.563262,77.186937,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+17,"R K Puram, Delhi - DPCC",India,Delhi Pollution Control Committee,393,so2 µg/m³,so2,µg/m³,SO₂ mass,56.9,28.563262,77.186937,2018-02-21T21:15:00Z,2025-09-21 14:46:44.541833
+17,"R K Puram, Delhi - DPCC",India,Delhi Pollution Control Committee,12234790,temperature c,temperature,c,Temperature (C),29.7,28.563262,77.186937,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+50,"Punjabi Bagh, Delhi - DPCC",India,Delhi Pollution Control Committee,12234791,co ppb,co,ppb,CO,0.79,28.674045,77.131023,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+50,"Punjabi Bagh, Delhi - DPCC",India,Delhi Pollution Control Committee,398,co µg/m³,co,µg/m³,CO mass,9.2,28.674045,77.131023,2018-02-21T21:15:00Z,2025-09-21 14:46:44.541833
+50,"Punjabi Bagh, Delhi - DPCC",India,Delhi Pollution Control Committee,12234792,no ppb,no,ppb,NO,1.2,28.674045,77.131023,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+50,"Punjabi Bagh, Delhi - DPCC",India,Delhi Pollution Control Committee,400,no2 µg/m³,no2,µg/m³,NO₂ mass,92.9,28.674045,77.131023,2018-02-21T20:45:00Z,2025-09-21 14:46:44.541833
+50,"Punjabi Bagh, Delhi - DPCC",India,Delhi Pollution Control Committee,12234793,no2 ppb,no2,ppb,NO₂,15.4,28.674045,77.131023,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+50,"Punjabi Bagh, Delhi - DPCC",India,Delhi Pollution Control Committee,71,o3 µg/m³,o3,µg/m³,O₃ mass,39.07,28.674045,77.131023,2018-01-24T09:30:00Z,2025-09-21 14:46:44.541833
+50,"Punjabi Bagh, Delhi - DPCC",India,Delhi Pollution Control Committee,12234794,o3 µg/m³,o3,µg/m³,O₃ mass,33.0,28.674045,77.131023,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+50,"Punjabi Bagh, Delhi - DPCC",India,Delhi Pollution Control Committee,395,pm10 µg/m³,pm10,µg/m³,PM10,322.0,28.674045,77.131023,2018-02-21T21:15:00Z,2025-09-21 14:46:44.541833
+50,"Punjabi Bagh, Delhi - DPCC",India,Delhi Pollution Control Committee,12234795,pm10 µg/m³,pm10,µg/m³,PM10,151.0,28.674045,77.131023,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+50,"Punjabi Bagh, Delhi - DPCC",India,Delhi Pollution Control Committee,12234796,pm25 µg/m³,pm25,µg/m³,PM2.5,14.0,28.674045,77.131023,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+50,"Punjabi Bagh, Delhi - DPCC",India,Delhi Pollution Control Committee,396,pm25 µg/m³,pm25,µg/m³,PM2.5,183.0,28.674045,77.131023,2018-02-21T21:15:00Z,2025-09-21 14:46:44.541833
+50,"Punjabi Bagh, Delhi - DPCC",India,Delhi Pollution Control Committee,12234797,relativehumidity %,relativehumidity,%,RH,51.0,28.674045,77.131023,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+50,"Punjabi Bagh, Delhi - DPCC",India,Delhi Pollution Control Committee,397,so2 µg/m³,so2,µg/m³,SO₂ mass,3.1,28.674045,77.131023,2018-02-21T21:15:00Z,2025-09-21 14:46:44.541833
+50,"Punjabi Bagh, Delhi - DPCC",India,Delhi Pollution Control Committee,12234798,so2 ppb,so2,ppb,SO₂,4.9,28.674045,77.131023,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+50,"Punjabi Bagh, Delhi - DPCC",India,Delhi Pollution Control Committee,12234799,temperature c,temperature,c,Temperature (C),28.9,28.674045,77.131023,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+103,"Income Tax Office, Delhi - CPCB",India,Unknown Governmental Organization,169,co µg/m³,co,µg/m³,CO mass,,28.623499999999996,77.2494,,2025-09-21 14:46:44.541833
+103,"Income Tax Office, Delhi - CPCB",India,Unknown Governmental Organization,13863,no2 µg/m³,no2,µg/m³,NO₂ mass,132.1,28.623499999999996,77.2494,2018-02-22T03:45:00Z,2025-09-21 14:46:44.541833
+103,"Income Tax Office, Delhi - CPCB",India,Unknown Governmental Organization,168,o3 µg/m³,o3,µg/m³,O₃ mass,,28.623499999999996,77.2494,,2025-09-21 14:46:44.541833
+103,"Income Tax Office, Delhi - CPCB",India,Unknown Governmental Organization,13862,pm10 µg/m³,pm10,µg/m³,PM10,312.0,28.623499999999996,77.2494,2018-02-22T03:45:00Z,2025-09-21 14:46:44.541833
+103,"Income Tax Office, Delhi - CPCB",India,Unknown Governmental Organization,13861,pm25 µg/m³,pm25,µg/m³,PM2.5,224.0,28.623499999999996,77.2494,2018-02-22T03:45:00Z,2025-09-21 14:46:44.541833
+235,"Anand Vihar, New Delhi - DPCC",India,Delhi Pollution Control Committee,12235605,co ppb,co,ppb,CO,1.44,28.646835,77.316032,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+235,"Anand Vihar, New Delhi - DPCC",India,Delhi Pollution Control Committee,385,co µg/m³,co,µg/m³,CO mass,1300.0,28.646835,77.316032,2016-03-21T14:45:00Z,2025-09-21 14:46:44.541833
+235,"Anand Vihar, New Delhi - DPCC",India,Delhi Pollution Control Committee,12235606,no ppb,no,ppb,NO,34.1,28.646835,77.316032,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+235,"Anand Vihar, New Delhi - DPCC",India,Delhi Pollution Control Committee,382,no2 µg/m³,no2,µg/m³,NO₂ mass,469.0,28.646835,77.316032,2018-02-21T21:15:00Z,2025-09-21 14:46:44.541833
+235,"Anand Vihar, New Delhi - DPCC",India,Delhi Pollution Control Committee,12235607,no2 ppb,no2,ppb,NO₂,35.1,28.646835,77.316032,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+235,"Anand Vihar, New Delhi - DPCC",India,Delhi Pollution Control Committee,380,o3 µg/m³,o3,µg/m³,O₃ mass,17.87,28.646835,77.316032,2018-01-23T04:30:00Z,2025-09-21 14:46:44.541833
+235,"Anand Vihar, New Delhi - DPCC",India,Delhi Pollution Control Committee,12235608,o3 µg/m³,o3,µg/m³,O₃ mass,1.8,28.646835,77.316032,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+235,"Anand Vihar, New Delhi - DPCC",India,Delhi Pollution Control Committee,12235609,pm10 µg/m³,pm10,µg/m³,PM10,338.0,28.646835,77.316032,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+235,"Anand Vihar, New Delhi - DPCC",India,Delhi Pollution Control Committee,381,pm10 µg/m³,pm10,µg/m³,PM10,670.0,28.646835,77.316032,2018-02-21T21:15:00Z,2025-09-21 14:46:44.541833
+235,"Anand Vihar, New Delhi - DPCC",India,Delhi Pollution Control Committee,384,pm25 µg/m³,pm25,µg/m³,PM2.5,271.0,28.646835,77.316032,2018-02-21T21:15:00Z,2025-09-21 14:46:44.541833
+235,"Anand Vihar, New Delhi - DPCC",India,Delhi Pollution Control Committee,12235610,pm25 µg/m³,pm25,µg/m³,PM2.5,114.0,28.646835,77.316032,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+235,"Anand Vihar, New Delhi - DPCC",India,Delhi Pollution Control Committee,12235611,relativehumidity %,relativehumidity,%,RH,56.0,28.646835,77.316032,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+235,"Anand Vihar, New Delhi - DPCC",India,Delhi Pollution Control Committee,12235612,so2 ppb,so2,ppb,SO₂,32.8,28.646835,77.316032,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+235,"Anand Vihar, New Delhi - DPCC",India,Delhi Pollution Control Committee,383,so2 µg/m³,so2,µg/m³,SO₂ mass,8.9,28.646835,77.316032,2018-02-21T21:15:00Z,2025-09-21 14:46:44.541833
+235,"Anand Vihar, New Delhi - DPCC",India,Delhi Pollution Control Committee,12235613,temperature c,temperature,c,Temperature (C),29.5,28.646835,77.316032,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+236,"Mandir Marg, Delhi - DPCC",India,Unknown Governmental Organization,386,co µg/m³,co,µg/m³,CO mass,7500.0,28.6341,77.2005,2018-02-21T16:45:00Z,2025-09-21 14:46:44.541833
+236,"Mandir Marg, Delhi - DPCC",India,Unknown Governmental Organization,389,no2 µg/m³,no2,µg/m³,NO₂ mass,63.1,28.6341,77.2005,2018-02-21T20:45:00Z,2025-09-21 14:46:44.541833
+236,"Mandir Marg, Delhi - DPCC",India,Unknown Governmental Organization,390,o3 µg/m³,o3,µg/m³,O₃ mass,2.6,28.6341,77.2005,2018-02-21T21:15:00Z,2025-09-21 14:46:44.541833
+236,"Mandir Marg, Delhi - DPCC",India,Unknown Governmental Organization,391,pm10 µg/m³,pm10,µg/m³,PM10,208.0,28.6341,77.2005,2018-02-21T21:15:00Z,2025-09-21 14:46:44.541833
+236,"Mandir Marg, Delhi - DPCC",India,Unknown Governmental Organization,388,pm25 µg/m³,pm25,µg/m³,PM2.5,149.0,28.6341,77.2005,2018-02-21T21:15:00Z,2025-09-21 14:46:44.541833
+236,"Mandir Marg, Delhi - DPCC",India,Unknown Governmental Organization,387,so2 µg/m³,so2,µg/m³,SO₂ mass,14.47,28.6341,77.2005,2018-02-21T21:15:00Z,2025-09-21 14:46:44.541833
+431,"IHBAS, Delhi - CPCB",India,Unknown Governmental Organization,5361,co µg/m³,co,µg/m³,CO mass,2500.0,28.6821,77.305,2018-02-22T02:45:00Z,2025-09-21 14:46:44.541833
+431,"IHBAS, Delhi - CPCB",India,Unknown Governmental Organization,747,no2 µg/m³,no2,µg/m³,NO₂ mass,121.43,28.6821,77.305,2018-02-22T02:45:00Z,2025-09-21 14:46:44.541833
+431,"IHBAS, Delhi - CPCB",India,Unknown Governmental Organization,13868,pm25 µg/m³,pm25,µg/m³,PM2.5,11.9,28.6821,77.305,2018-02-22T02:45:00Z,2025-09-21 14:46:44.541833
+431,"IHBAS, Delhi - CPCB",India,Unknown Governmental Organization,13867,so2 µg/m³,so2,µg/m³,SO₂ mass,6.42,28.6821,77.305,2018-02-22T02:45:00Z,2025-09-21 14:46:44.541833
+2503,"Shadipur, Delhi - CPCB",India,Unknown Governmental Organization,4851,co µg/m³,co,µg/m³,CO mass,2140.0,28.651699999999998,77.1581,2018-02-22T02:45:00Z,2025-09-21 14:46:44.541833
+2503,"Shadipur, Delhi - CPCB",India,Unknown Governmental Organization,4852,no2 µg/m³,no2,µg/m³,NO₂ mass,12.43,28.651699999999998,77.1581,2018-02-22T02:45:00Z,2025-09-21 14:46:44.541833
+2503,"Shadipur, Delhi - CPCB",India,Unknown Governmental Organization,4853,o3 µg/m³,o3,µg/m³,O₃ mass,3.17,28.651699999999998,77.1581,2018-02-22T02:45:00Z,2025-09-21 14:46:44.541833
+2503,"Shadipur, Delhi - CPCB",India,Unknown Governmental Organization,13860,pm25 µg/m³,pm25,µg/m³,PM2.5,219.4,28.651699999999998,77.1581,2018-02-22T02:45:00Z,2025-09-21 14:46:44.541833
+2503,"Shadipur, Delhi - CPCB",India,Unknown Governmental Organization,13859,so2 µg/m³,so2,µg/m³,SO₂ mass,13.43,28.651699999999998,77.1581,2018-02-22T02:45:00Z,2025-09-21 14:46:44.541833
+2587,"Sector16A, Faridabad - HSPCB",India,Unknown Governmental Organization,5347,co µg/m³,co,µg/m³,CO mass,10.0,28.410122219999998,77.313775,2018-02-07T06:35:00Z,2025-09-21 14:46:44.541833
+2587,"Sector16A, Faridabad - HSPCB",India,Unknown Governmental Organization,5341,no2 µg/m³,no2,µg/m³,NO₂ mass,69.44,28.410122219999998,77.313775,2018-02-22T03:25:00Z,2025-09-21 14:46:44.541833
+2587,"Sector16A, Faridabad - HSPCB",India,Unknown Governmental Organization,5344,o3 µg/m³,o3,µg/m³,O₃ mass,5.46,28.410122219999998,77.313775,2018-02-22T03:25:00Z,2025-09-21 14:46:44.541833
+2587,"Sector16A, Faridabad - HSPCB",India,Unknown Governmental Organization,40563,pm10 µg/m³,pm10,µg/m³,PM10,110.0,28.410122219999998,77.313775,2018-01-29T13:50:00Z,2025-09-21 14:46:44.541833
+2587,"Sector16A, Faridabad - HSPCB",India,Unknown Governmental Organization,13900,pm25 µg/m³,pm25,µg/m³,PM2.5,232.0,28.410122219999998,77.313775,2018-02-22T03:25:00Z,2025-09-21 14:46:44.541833
+2587,"Sector16A, Faridabad - HSPCB",India,Unknown Governmental Organization,13901,so2 µg/m³,so2,µg/m³,SO₂ mass,8.19,28.410122219999998,77.313775,2018-02-22T03:25:00Z,2025-09-21 14:46:44.541833
+2597,US Diplomatic Post: New Delhi,India,Unknown Governmental Organization,5398,pm25 µg/m³,pm25,µg/m³,PM2.5,241.0,28.598096,77.189066,2016-11-09T16:30:00Z,2025-09-21 14:46:44.541833
+5404,"Pusa, Delhi - IMD",India,India Meteorological Department,14086,co µg/m³,co,µg/m³,CO mass,1860.0,28.639645,77.146263,2018-02-21T07:00:00Z,2025-09-21 14:46:44.541833
+5404,"Pusa, Delhi - IMD",India,India Meteorological Department,12234697,co ppb,co,ppb,CO,0.5044297493994236,28.639645,77.146263,2025-09-21T12:31:00Z,2025-09-21 14:46:44.541833
+5404,"Pusa, Delhi - IMD",India,India Meteorological Department,12234698,no ppb,no,ppb,NO,13.930623664855958,28.639645,77.146263,2025-09-21T12:31:00Z,2025-09-21 14:46:44.541833
+5404,"Pusa, Delhi - IMD",India,India Meteorological Department,14084,no2 µg/m³,no2,µg/m³,NO₂ mass,27.68,28.639645,77.146263,2018-02-21T07:00:00Z,2025-09-21 14:46:44.541833
+5404,"Pusa, Delhi - IMD",India,India Meteorological Department,12234699,no2 ppb,no2,ppb,NO₂,6.738188695907592,28.639645,77.146263,2025-09-21T12:31:00Z,2025-09-21 14:46:44.541833
+5404,"Pusa, Delhi - IMD",India,India Meteorological Department,12234700,o3 µg/m³,o3,µg/m³,O₃ mass,38.75572814941406,28.639645,77.146263,2025-09-21T12:31:00Z,2025-09-21 14:46:44.541833
+5404,"Pusa, Delhi - IMD",India,India Meteorological Department,14085,pm10 µg/m³,pm10,µg/m³,PM10,168.88,28.639645,77.146263,2018-02-21T07:00:00Z,2025-09-21 14:46:44.541833
+5404,"Pusa, Delhi - IMD",India,India Meteorological Department,12234701,pm10 µg/m³,pm10,µg/m³,PM10,120.62999725341795,28.639645,77.146263,2025-09-21T12:31:00Z,2025-09-21 14:46:44.541833
+5404,"Pusa, Delhi - IMD",India,India Meteorological Department,12234702,pm25 µg/m³,pm25,µg/m³,PM2.5,28.913330078125,28.639645,77.146263,2025-09-21T12:31:00Z,2025-09-21 14:46:44.541833
+5404,"Pusa, Delhi - IMD",India,India Meteorological Department,14087,pm25 µg/m³,pm25,µg/m³,PM2.5,109.48,28.639645,77.146263,2018-02-21T07:00:00Z,2025-09-21 14:46:44.541833
+5509,"Anand Vihar, Delhi - DPCC",India,Unknown Governmental Organization,14519,co µg/m³,co,µg/m³,CO mass,400.0,28.647622000000002,77.315809,2022-10-31T00:30:00Z,2025-09-21 14:46:44.541833
+5509,"Anand Vihar, Delhi - DPCC",India,Unknown Governmental Organization,14523,no2 µg/m³,no2,µg/m³,NO₂ mass,29.7,28.647622000000002,77.315809,2022-10-31T00:30:00Z,2025-09-21 14:46:44.541833
+5509,"Anand Vihar, Delhi - DPCC",India,Unknown Governmental Organization,14524,o3 µg/m³,o3,µg/m³,O₃ mass,7.6,28.647622000000002,77.315809,2022-10-31T00:30:00Z,2025-09-21 14:46:44.541833
+5509,"Anand Vihar, Delhi - DPCC",India,Unknown Governmental Organization,14522,pm10 µg/m³,pm10,µg/m³,PM10,504.0,28.647622000000002,77.315809,2022-10-31T00:30:00Z,2025-09-21 14:46:44.541833
+5509,"Anand Vihar, Delhi - DPCC",India,Unknown Governmental Organization,14521,pm25 µg/m³,pm25,µg/m³,PM2.5,283.0,28.647622000000002,77.315809,2022-10-31T00:30:00Z,2025-09-21 14:46:44.541833
+5509,"Anand Vihar, Delhi - DPCC",India,Unknown Governmental Organization,14520,so2 µg/m³,so2,µg/m³,SO₂ mass,14.5,28.647622000000002,77.315809,2022-10-31T00:15:00Z,2025-09-21 14:46:44.541833
+5540,"Punjabi Bagh, Delhi - DPCC",India,Unknown Governmental Organization,14616,co µg/m³,co,µg/m³,CO mass,2000.0,28.6670856,77.1301247,2018-05-12T06:00:00Z,2025-09-21 14:46:44.541833
+5540,"Punjabi Bagh, Delhi - DPCC",India,Unknown Governmental Organization,14613,no2 µg/m³,no2,µg/m³,NO₂ mass,169.3,28.6670856,77.1301247,2018-05-12T06:00:00Z,2025-09-21 14:46:44.541833
+5540,"Punjabi Bagh, Delhi - DPCC",India,Unknown Governmental Organization,14614,o3 µg/m³,o3,µg/m³,O₃ mass,131.9,28.6670856,77.1301247,2018-05-12T06:00:00Z,2025-09-21 14:46:44.541833
+5540,"Punjabi Bagh, Delhi - DPCC",India,Unknown Governmental Organization,14612,pm10 µg/m³,pm10,µg/m³,PM10,431.0,28.6670856,77.1301247,2018-05-13T11:30:00Z,2025-09-21 14:46:44.541833
+5540,"Punjabi Bagh, Delhi - DPCC",India,Unknown Governmental Organization,14617,pm25 µg/m³,pm25,µg/m³,PM2.5,74.0,28.6670856,77.1301247,2018-05-13T11:30:00Z,2025-09-21 14:46:44.541833
+5540,"Punjabi Bagh, Delhi - DPCC",India,Unknown Governmental Organization,14615,so2 µg/m³,so2,µg/m³,SO₂ mass,54.4,28.6670856,77.1301247,2018-05-12T06:00:00Z,2025-09-21 14:46:44.541833
+5541,"Burari Crossing, New Delhi - IMD",India,India Meteorological Department,12234679,co ppb,co,ppb,CO,0.58395,28.7256504,77.2011573,2025-09-16T03:45:00Z,2025-09-21 14:46:44.541833
+5541,"Burari Crossing, New Delhi - IMD",India,India Meteorological Department,14958,co µg/m³,co,µg/m³,CO mass,1230.0,28.7256504,77.2011573,2022-08-03T11:00:00Z,2025-09-21 14:46:44.541833
+5541,"Burari Crossing, New Delhi - IMD",India,India Meteorological Department,12234680,no ppb,no,ppb,NO,7.82751452922821,28.7256504,77.2011573,2025-07-21T06:01:00Z,2025-09-21 14:46:44.541833
+5541,"Burari Crossing, New Delhi - IMD",India,India Meteorological Department,14936,no2 µg/m³,no2,µg/m³,NO₂ mass,0.0,28.7256504,77.2011573,2022-08-03T11:00:00Z,2025-09-21 14:46:44.541833
+5541,"Burari Crossing, New Delhi - IMD",India,India Meteorological Department,12234681,no2 ppb,no2,ppb,NO₂,28.350399999999997,28.7256504,77.2011573,2025-09-16T03:45:00Z,2025-09-21 14:46:44.541833
+5541,"Burari Crossing, New Delhi - IMD",India,India Meteorological Department,14931,o3 µg/m³,o3,µg/m³,O₃ mass,36.63,28.7256504,77.2011573,2022-08-03T11:00:00Z,2025-09-21 14:46:44.541833
+5541,"Burari Crossing, New Delhi - IMD",India,India Meteorological Department,12234682,o3 µg/m³,o3,µg/m³,O₃ mass,16.7776,28.7256504,77.2011573,2025-09-16T03:45:00Z,2025-09-21 14:46:44.541833
+5541,"Burari Crossing, New Delhi - IMD",India,India Meteorological Department,14620,pm10 µg/m³,pm10,µg/m³,PM10,0.0,28.7256504,77.2011573,2022-08-03T11:00:00Z,2025-09-21 14:46:44.541833
+5541,"Burari Crossing, New Delhi - IMD",India,India Meteorological Department,12234683,pm10 µg/m³,pm10,µg/m³,PM10,60.32,28.7256504,77.2011573,2025-09-16T03:45:00Z,2025-09-21 14:46:44.541833
+5541,"Burari Crossing, New Delhi - IMD",India,India Meteorological Department,14912,pm25 µg/m³,pm25,µg/m³,PM2.5,0.0,28.7256504,77.2011573,2022-08-03T11:00:00Z,2025-09-21 14:46:44.541833
+5541,"Burari Crossing, New Delhi - IMD",India,India Meteorological Department,12234684,pm25 µg/m³,pm25,µg/m³,PM2.5,8.93,28.7256504,77.2011573,2025-09-16T03:45:00Z,2025-09-21 14:46:44.541833
+5570,"Aya Nagar, New Delhi - IMD",India,India Meteorological Department,12234703,co ppb,co,ppb,CO,0.6,28.474261,77.131606,2025-09-21T12:00:00Z,2025-09-21 14:46:44.541833
+5570,"Aya Nagar, New Delhi - IMD",India,India Meteorological Department,15010,co µg/m³,co,µg/m³,CO mass,1740.0,28.474261,77.131606,2022-10-31T01:15:00Z,2025-09-21 14:46:44.541833
+5570,"Aya Nagar, New Delhi - IMD",India,India Meteorological Department,12234704,no ppb,no,ppb,NO,9.65,28.474261,77.131606,2025-09-21T12:00:00Z,2025-09-21 14:46:44.541833
+5570,"Aya Nagar, New Delhi - IMD",India,India Meteorological Department,12234705,no2 ppb,no2,ppb,NO₂,2.08,28.474261,77.131606,2025-09-21T12:00:00Z,2025-09-21 14:46:44.541833
+5570,"Aya Nagar, New Delhi - IMD",India,India Meteorological Department,15019,no2 µg/m³,no2,µg/m³,NO₂ mass,25.02,28.474261,77.131606,2022-10-31T01:15:00Z,2025-09-21 14:46:44.541833
+5570,"Aya Nagar, New Delhi - IMD",India,India Meteorological Department,12234706,o3 µg/m³,o3,µg/m³,O₃ mass,68.24,28.474261,77.131606,2025-09-21T12:00:00Z,2025-09-21 14:46:44.541833
+5570,"Aya Nagar, New Delhi - IMD",India,India Meteorological Department,15021,o3 µg/m³,o3,µg/m³,O₃ mass,29.5,28.474261,77.131606,2022-10-31T01:15:00Z,2025-09-21 14:46:44.541833
+5570,"Aya Nagar, New Delhi - IMD",India,India Meteorological Department,15027,pm10 µg/m³,pm10,µg/m³,PM10,327.31,28.474261,77.131606,2022-10-31T01:15:00Z,2025-09-21 14:46:44.541833
+5570,"Aya Nagar, New Delhi - IMD",India,India Meteorological Department,12234707,pm10 µg/m³,pm10,µg/m³,PM10,96.85,28.474261,77.131606,2025-09-21T12:00:00Z,2025-09-21 14:46:44.541833
+5570,"Aya Nagar, New Delhi - IMD",India,India Meteorological Department,12234708,pm25 µg/m³,pm25,µg/m³,PM2.5,26.21,28.474261,77.131606,2025-09-21T12:00:00Z,2025-09-21 14:46:44.541833
+5570,"Aya Nagar, New Delhi - IMD",India,India Meteorological Department,14717,pm25 µg/m³,pm25,µg/m³,PM2.5,31.91,28.474261,77.131606,2022-10-16T13:45:00Z,2025-09-21 14:46:44.541833
+5586,"Sirifort, Delhi - CPCB",India,Central Pollution Control Board,12234764,co ppb,co,ppb,CO,0.17,28.5504249,77.2159377,2025-09-21T12:15:00Z,2025-09-21 14:46:44.541833
+5586,"Sirifort, Delhi - CPCB",India,Central Pollution Control Board,12234765,no ppb,no,ppb,NO,23.21,28.5504249,77.2159377,2025-09-21T12:15:00Z,2025-09-21 14:46:44.541833
+5586,"Sirifort, Delhi - CPCB",India,Central Pollution Control Board,12234766,no2 ppb,no2,ppb,NO₂,32.27,28.5504249,77.2159377,2025-09-21T12:15:00Z,2025-09-21 14:46:44.541833
+5586,"Sirifort, Delhi - CPCB",India,Central Pollution Control Board,12234767,o3 µg/m³,o3,µg/m³,O₃ mass,18.47,28.5504249,77.2159377,2025-09-21T12:15:00Z,2025-09-21 14:46:44.541833
+5586,"Sirifort, Delhi - CPCB",India,Central Pollution Control Board,12234768,pm10 µg/m³,pm10,µg/m³,PM10,146.0,28.5504249,77.2159377,2025-09-21T12:15:00Z,2025-09-21 14:46:44.541833
+5586,"Sirifort, Delhi - CPCB",India,Central Pollution Control Board,12234769,pm25 µg/m³,pm25,µg/m³,PM2.5,25.32,28.5504249,77.2159377,2025-09-21T12:15:00Z,2025-09-21 14:46:44.541833
+5586,"Sirifort, Delhi - CPCB",India,Central Pollution Control Board,12234770,relativehumidity %,relativehumidity,%,RH,66.28,28.5504249,77.2159377,2025-09-21T12:15:00Z,2025-09-21 14:46:44.541833
+5586,"Sirifort, Delhi - CPCB",India,Central Pollution Control Board,12234771,so2 ppb,so2,ppb,SO₂,25.4,28.5504249,77.2159377,2025-09-21T12:15:00Z,2025-09-21 14:46:44.541833
+5586,"Sirifort, Delhi - CPCB",India,Central Pollution Control Board,12234772,temperature c,temperature,c,Temperature (C),32.24,28.5504249,77.2159377,2025-09-21T12:15:00Z,2025-09-21 14:46:44.541833
+5598,"Sector - 125, Noida, UP - UPPCB",India,Uttar Pradesh Pollution Control Board,12235182,co ppb,co,ppb,CO,0.66,28.5447608,77.3231257,2025-09-21T12:15:00Z,2025-09-21 14:46:44.541833
+5598,"Sector - 125, Noida, UP - UPPCB",India,Uttar Pradesh Pollution Control Board,12235183,no ppb,no,ppb,NO,2.6,28.5447608,77.3231257,2025-09-21T12:15:00Z,2025-09-21 14:46:44.541833
+5598,"Sector - 125, Noida, UP - UPPCB",India,Uttar Pradesh Pollution Control Board,12235184,no2 ppb,no2,ppb,NO₂,17.2,28.5447608,77.3231257,2025-09-21T12:15:00Z,2025-09-21 14:46:44.541833
+5598,"Sector - 125, Noida, UP - UPPCB",India,Uttar Pradesh Pollution Control Board,12235185,o3 µg/m³,o3,µg/m³,O₃ mass,71.0,28.5447608,77.3231257,2025-09-21T12:15:00Z,2025-09-21 14:46:44.541833
+5598,"Sector - 125, Noida, UP - UPPCB",India,Uttar Pradesh Pollution Control Board,12235186,pm10 µg/m³,pm10,µg/m³,PM10,177.0,28.5447608,77.3231257,2025-09-21T12:15:00Z,2025-09-21 14:46:44.541833
+5598,"Sector - 125, Noida, UP - UPPCB",India,Uttar Pradesh Pollution Control Board,12235187,pm25 µg/m³,pm25,µg/m³,PM2.5,35.0,28.5447608,77.3231257,2025-09-21T12:15:00Z,2025-09-21 14:46:44.541833
+5598,"Sector - 125, Noida, UP - UPPCB",India,Uttar Pradesh Pollution Control Board,12235188,relativehumidity %,relativehumidity,%,RH,67.0,28.5447608,77.3231257,2025-09-21T12:15:00Z,2025-09-21 14:46:44.541833
+5598,"Sector - 125, Noida, UP - UPPCB",India,Uttar Pradesh Pollution Control Board,12235189,so2 ppb,so2,ppb,SO₂,14.5,28.5447608,77.3231257,2025-09-21T12:15:00Z,2025-09-21 14:46:44.541833
+5598,"Sector - 125, Noida, UP - UPPCB",India,Uttar Pradesh Pollution Control Board,12235190,temperature c,temperature,c,Temperature (C),35.6,28.5447608,77.3231257,2025-09-21T12:15:00Z,2025-09-21 14:46:44.541833
+5610,"North Campus, DU, Delhi - IMD",India,India Meteorological Department,14909,co µg/m³,co,µg/m³,CO mass,1390.0,28.6573814,77.1585447,2022-10-31T02:00:00Z,2025-09-21 14:46:44.541833
+5610,"North Campus, DU, Delhi - IMD",India,India Meteorological Department,12234685,co ppb,co,ppb,CO,0.0,28.6573814,77.1585447,2025-09-21T12:00:00Z,2025-09-21 14:46:44.541833
+5610,"North Campus, DU, Delhi - IMD",India,India Meteorological Department,12234686,no ppb,no,ppb,NO,1.0086,28.6573814,77.1585447,2025-09-21T12:00:00Z,2025-09-21 14:46:44.541833
+5610,"North Campus, DU, Delhi - IMD",India,India Meteorological Department,12234687,no2 ppb,no2,ppb,NO₂,22.578799999999998,28.6573814,77.1585447,2025-09-21T12:00:00Z,2025-09-21 14:46:44.541833
+5610,"North Campus, DU, Delhi - IMD",India,India Meteorological Department,14902,no2 µg/m³,no2,µg/m³,NO₂ mass,24.0,28.6573814,77.1585447,2022-10-31T02:00:00Z,2025-09-21 14:46:44.541833
+5610,"North Campus, DU, Delhi - IMD",India,India Meteorological Department,2007703,o3 ppm,o3,ppm,O₃,0.01087,28.6573814,77.1585447,2022-10-31T02:00:00Z,2025-09-21 14:46:44.541833
+5610,"North Campus, DU, Delhi - IMD",India,India Meteorological Department,14889,o3 µg/m³,o3,µg/m³,O₃ mass,14.59,28.6573814,77.1585447,2022-06-22T02:15:00Z,2025-09-21 14:46:44.541833
+5610,"North Campus, DU, Delhi - IMD",India,India Meteorological Department,12234688,o3 µg/m³,o3,µg/m³,O₃ mass,109.3876,28.6573814,77.1585447,2025-09-21T12:00:00Z,2025-09-21 14:46:44.541833
+5610,"North Campus, DU, Delhi - IMD",India,India Meteorological Department,12234689,pm10 µg/m³,pm10,µg/m³,PM10,144.4,28.6573814,77.1585447,2025-09-21T12:00:00Z,2025-09-21 14:46:44.541833
+5610,"North Campus, DU, Delhi - IMD",India,India Meteorological Department,14886,pm10 µg/m³,pm10,µg/m³,PM10,235.44,28.6573814,77.1585447,2022-10-31T02:00:00Z,2025-09-21 14:46:44.541833
+5610,"North Campus, DU, Delhi - IMD",India,India Meteorological Department,12234690,pm25 µg/m³,pm25,µg/m³,PM2.5,32.0,28.6573814,77.1585447,2025-09-21T12:00:00Z,2025-09-21 14:46:44.541833
+5610,"North Campus, DU, Delhi - IMD",India,India Meteorological Department,14860,pm25 µg/m³,pm25,µg/m³,PM2.5,147.6,28.6573814,77.1585447,2022-10-31T02:00:00Z,2025-09-21 14:46:44.541833
+5613,"ITO, New Delhi - CPCB",India,Central Pollution Control Board,12234748,co ppb,co,ppb,CO,0.787,28.628624,77.24106,2025-09-21T12:00:00Z,2025-09-21 14:46:44.541833
+5613,"ITO, New Delhi - CPCB",India,Central Pollution Control Board,17782,co µg/m³,co,µg/m³,CO mass,1450.0,28.628624,77.24106,2020-01-20T07:15:00Z,2025-09-21 14:46:44.541833
+5613,"ITO, New Delhi - CPCB",India,Central Pollution Control Board,12234749,no ppb,no,ppb,NO,21.7,28.628624,77.24106,2025-09-21T12:00:00Z,2025-09-21 14:46:44.541833
+5613,"ITO, New Delhi - CPCB",India,Central Pollution Control Board,12234750,no2 ppb,no2,ppb,NO₂,65.9,28.628624,77.24106,2025-09-21T12:00:00Z,2025-09-21 14:46:44.541833
+5613,"ITO, New Delhi - CPCB",India,Central Pollution Control Board,14866,no2 µg/m³,no2,µg/m³,NO₂ mass,22.17,28.628624,77.24106,2020-01-20T07:15:00Z,2025-09-21 14:46:44.541833
+5613,"ITO, New Delhi - CPCB",India,Central Pollution Control Board,12234751,o3 µg/m³,o3,µg/m³,O₃ mass,48.7,28.628624,77.24106,2025-09-21T12:00:00Z,2025-09-21 14:46:44.541833
+5613,"ITO, New Delhi - CPCB",India,Central Pollution Control Board,17785,o3 µg/m³,o3,µg/m³,O₃ mass,28.7,28.628624,77.24106,2020-01-20T07:15:00Z,2025-09-21 14:46:44.541833
+5613,"ITO, New Delhi - CPCB",India,Central Pollution Control Board,12234752,pm10 µg/m³,pm10,µg/m³,PM10,107.0,28.628624,77.24106,2025-09-21T12:00:00Z,2025-09-21 14:46:44.541833
+5613,"ITO, New Delhi - CPCB",India,Central Pollution Control Board,14869,pm10 µg/m³,pm10,µg/m³,PM10,209.0,28.628624,77.24106,2020-01-20T07:15:00Z,2025-09-21 14:46:44.541833
+5613,"ITO, New Delhi - CPCB",India,Central Pollution Control Board,12234753,pm25 µg/m³,pm25,µg/m³,PM2.5,29.0,28.628624,77.24106,2025-09-21T12:00:00Z,2025-09-21 14:46:44.541833
+5613,"ITO, New Delhi - CPCB",India,Central Pollution Control Board,14878,pm25 µg/m³,pm25,µg/m³,PM2.5,162.0,28.628624,77.24106,2020-01-20T07:15:00Z,2025-09-21 14:46:44.541833
+5613,"ITO, New Delhi - CPCB",India,Central Pollution Control Board,12234754,so2 ppb,so2,ppb,SO₂,3.0,28.628624,77.24106,2025-09-21T12:00:00Z,2025-09-21 14:46:44.541833
+5613,"ITO, New Delhi - CPCB",India,Central Pollution Control Board,17781,so2 µg/m³,so2,µg/m³,SO₂ mass,11.16,28.628624,77.24106,2020-01-20T07:15:00Z,2025-09-21 14:46:44.541833
+5617,"Sector- 16A, Faridabad - HSPCB",India,Unknown Governmental Organization,17865,co µg/m³,co,µg/m³,CO mass,0.0,28.4088421,77.3099081,2022-02-06T14:45:00Z,2025-09-21 14:46:44.541833
+5617,"Sector- 16A, Faridabad - HSPCB",India,Unknown Governmental Organization,14887,no2 µg/m³,no2,µg/m³,NO₂ mass,18.99,28.4088421,77.3099081,2022-10-31T02:00:00Z,2025-09-21 14:46:44.541833
+5617,"Sector- 16A, Faridabad - HSPCB",India,Unknown Governmental Organization,15229,o3 µg/m³,o3,µg/m³,O₃ mass,16.86,28.4088421,77.3099081,2022-10-31T02:00:00Z,2025-09-21 14:46:44.541833
+5617,"Sector- 16A, Faridabad - HSPCB",India,Unknown Governmental Organization,17547,pm10 µg/m³,pm10,µg/m³,PM10,634.0,28.4088421,77.3099081,2018-11-08T16:30:00Z,2025-09-21 14:46:44.541833
+5617,"Sector- 16A, Faridabad - HSPCB",India,Unknown Governmental Organization,14930,pm25 µg/m³,pm25,µg/m³,PM2.5,240.0,28.4088421,77.3099081,2022-10-31T02:00:00Z,2025-09-21 14:46:44.541833
+5617,"Sector- 16A, Faridabad - HSPCB",India,Unknown Governmental Organization,15107,so2 µg/m³,so2,µg/m³,SO₂ mass,22.27,28.4088421,77.3099081,2022-10-31T02:00:00Z,2025-09-21 14:46:44.541833
+5626,"DTU, New Delhi - CPCB",India,Central Pollution Control Board,14933,co µg/m³,co,µg/m³,CO mass,1900.0,28.7500499,77.1112615,2022-10-31T01:45:00Z,2025-09-21 14:46:44.541833
+5626,"DTU, New Delhi - CPCB",India,Central Pollution Control Board,12234755,co ppb,co,ppb,CO,0.46,28.7500499,77.1112615,2025-09-21T12:15:00Z,2025-09-21 14:46:44.541833
+5626,"DTU, New Delhi - CPCB",India,Central Pollution Control Board,12234756,no ppb,no,ppb,NO,20.4,28.7500499,77.1112615,2025-09-21T12:15:00Z,2025-09-21 14:46:44.541833
+5626,"DTU, New Delhi - CPCB",India,Central Pollution Control Board,12234757,no2 ppb,no2,ppb,NO₂,45.58,28.7500499,77.1112615,2025-09-21T12:15:00Z,2025-09-21 14:46:44.541833
+5626,"DTU, New Delhi - CPCB",India,Central Pollution Control Board,14941,no2 µg/m³,no2,µg/m³,NO₂ mass,40.8,28.7500499,77.1112615,2022-10-31T01:45:00Z,2025-09-21 14:46:44.541833
+5626,"DTU, New Delhi - CPCB",India,Central Pollution Control Board,12234758,o3 µg/m³,o3,µg/m³,O₃ mass,19.48,28.7500499,77.1112615,2025-09-21T12:15:00Z,2025-09-21 14:46:44.541833
+5626,"DTU, New Delhi - CPCB",India,Central Pollution Control Board,14949,o3 µg/m³,o3,µg/m³,O₃ mass,14.3,28.7500499,77.1112615,2022-10-31T01:45:00Z,2025-09-21 14:46:44.541833
+5626,"DTU, New Delhi - CPCB",India,Central Pollution Control Board,12234759,pm10 µg/m³,pm10,µg/m³,PM10,134.68,28.7500499,77.1112615,2025-09-21T12:15:00Z,2025-09-21 14:46:44.541833
+5626,"DTU, New Delhi - CPCB",India,Central Pollution Control Board,14974,pm10 µg/m³,pm10,µg/m³,PM10,379.0,28.7500499,77.1112615,2022-10-31T01:45:00Z,2025-09-21 14:46:44.541833
+5626,"DTU, New Delhi - CPCB",India,Central Pollution Control Board,12234760,pm25 µg/m³,pm25,µg/m³,PM2.5,25.63,28.7500499,77.1112615,2025-09-21T12:15:00Z,2025-09-21 14:46:44.541833
+5626,"DTU, New Delhi - CPCB",India,Central Pollution Control Board,14985,pm25 µg/m³,pm25,µg/m³,PM2.5,217.0,28.7500499,77.1112615,2022-10-31T01:45:00Z,2025-09-21 14:46:44.541833
+5626,"DTU, New Delhi - CPCB",India,Central Pollution Control Board,12234761,relativehumidity %,relativehumidity,%,RH,71.15,28.7500499,77.1112615,2025-09-21T12:15:00Z,2025-09-21 14:46:44.541833
+5626,"DTU, New Delhi - CPCB",India,Central Pollution Control Board,12234762,so2 ppb,so2,ppb,SO₂,34.76,28.7500499,77.1112615,2025-09-21T12:15:00Z,2025-09-21 14:46:44.541833
+5626,"DTU, New Delhi - CPCB",India,Central Pollution Control Board,17766,so2 µg/m³,so2,µg/m³,SO₂ mass,14.3,28.7500499,77.1112615,2022-10-31T01:45:00Z,2025-09-21 14:46:44.541833
+5626,"DTU, New Delhi - CPCB",India,Central Pollution Control Board,12234763,temperature c,temperature,c,Temperature (C),31.8,28.7500499,77.1112615,2025-09-21T12:15:00Z,2025-09-21 14:46:44.541833
+5627,"CRRI Mathura Road, New Delhi - IMD",India,India Meteorological Department,15098,co µg/m³,co,µg/m³,CO mass,960.0,28.5512005,77.2735737,2022-10-31T01:15:00Z,2025-09-21 14:46:44.541833
+5627,"CRRI Mathura Road, New Delhi - IMD",India,India Meteorological Department,12234673,co ppb,co,ppb,CO,2.32,28.5512005,77.2735737,2025-09-21T12:00:00Z,2025-09-21 14:46:44.541833
+5627,"CRRI Mathura Road, New Delhi - IMD",India,India Meteorological Department,12234674,no ppb,no,ppb,NO,18.82,28.5512005,77.2735737,2025-09-21T12:00:00Z,2025-09-21 14:46:44.541833
+5627,"CRRI Mathura Road, New Delhi - IMD",India,India Meteorological Department,12234675,no2 ppb,no2,ppb,NO₂,37.34,28.5512005,77.2735737,2025-09-21T12:00:00Z,2025-09-21 14:46:44.541833
+5627,"CRRI Mathura Road, New Delhi - IMD",India,India Meteorological Department,15082,no2 µg/m³,no2,µg/m³,NO₂ mass,3.52,28.5512005,77.2735737,2022-10-31T01:15:00Z,2025-09-21 14:46:44.541833
+5627,"CRRI Mathura Road, New Delhi - IMD",India,India Meteorological Department,12234676,o3 µg/m³,o3,µg/m³,O₃ mass,51.5,28.5512005,77.2735737,2025-09-21T12:00:00Z,2025-09-21 14:46:44.541833
+5627,"CRRI Mathura Road, New Delhi - IMD",India,India Meteorological Department,15063,o3 µg/m³,o3,µg/m³,O₃ mass,28.31,28.5512005,77.2735737,2022-10-31T01:15:00Z,2025-09-21 14:46:44.541833
+5627,"CRRI Mathura Road, New Delhi - IMD",India,India Meteorological Department,12234677,pm10 µg/m³,pm10,µg/m³,PM10,200.31,28.5512005,77.2735737,2025-09-21T12:00:00Z,2025-09-21 14:46:44.541833
+5627,"CRRI Mathura Road, New Delhi - IMD",India,India Meteorological Department,14946,pm10 µg/m³,pm10,µg/m³,PM10,345.82,28.5512005,77.2735737,2022-10-31T01:15:00Z,2025-09-21 14:46:44.541833
+5627,"CRRI Mathura Road, New Delhi - IMD",India,India Meteorological Department,14935,pm25 µg/m³,pm25,µg/m³,PM2.5,224.72,28.5512005,77.2735737,2022-10-31T01:15:00Z,2025-09-21 14:46:44.541833
+5627,"CRRI Mathura Road, New Delhi - IMD",India,India Meteorological Department,12234678,pm25 µg/m³,pm25,µg/m³,PM2.5,49.36,28.5512005,77.2735737,2025-09-21T12:00:00Z,2025-09-21 14:46:44.541833
+5630,"Shadipur, Delhi - CPCB",India,Central Pollution Control Board,12234721,co ppb,co,ppb,CO,1.187,28.6514781,77.1473105,2025-09-21T12:15:00Z,2025-09-21 14:46:44.541833
+5630,"Shadipur, Delhi - CPCB",India,Central Pollution Control Board,15119,co µg/m³,co,µg/m³,CO mass,2410.0,28.6514781,77.1473105,2022-10-31T02:00:00Z,2025-09-21 14:46:44.541833
+5630,"Shadipur, Delhi - CPCB",India,Central Pollution Control Board,12234722,no ppb,no,ppb,NO,14.91,28.6514781,77.1473105,2025-09-21T12:15:00Z,2025-09-21 14:46:44.541833
+5630,"Shadipur, Delhi - CPCB",India,Central Pollution Control Board,15053,no2 µg/m³,no2,µg/m³,NO₂ mass,36.5,28.6514781,77.1473105,2022-10-31T02:00:00Z,2025-09-21 14:46:44.541833
+5630,"Shadipur, Delhi - CPCB",India,Central Pollution Control Board,12234723,no2 ppb,no2,ppb,NO₂,52.3,28.6514781,77.1473105,2025-09-21T12:15:00Z,2025-09-21 14:46:44.541833
+5630,"Shadipur, Delhi - CPCB",India,Central Pollution Control Board,12234724,o3 µg/m³,o3,µg/m³,O₃ mass,8.11,28.6514781,77.1473105,2025-09-21T12:15:00Z,2025-09-21 14:46:44.541833
+5630,"Shadipur, Delhi - CPCB",India,Central Pollution Control Board,15011,o3 µg/m³,o3,µg/m³,O₃ mass,8.02,28.6514781,77.1473105,2022-10-31T02:00:00Z,2025-09-21 14:46:44.541833
+5630,"Shadipur, Delhi - CPCB",India,Central Pollution Control Board,36210,pm10 µg/m³,pm10,µg/m³,PM10,833.9,28.6514781,77.1473105,2022-10-31T02:00:00Z,2025-09-21 14:46:44.541833
+5630,"Shadipur, Delhi - CPCB",India,Central Pollution Control Board,12234725,pm10 µg/m³,pm10,µg/m³,PM10,130.0,28.6514781,77.1473105,2025-09-21T12:15:00Z,2025-09-21 14:46:44.541833
+5630,"Shadipur, Delhi - CPCB",India,Central Pollution Control Board,12234726,pm25 µg/m³,pm25,µg/m³,PM2.5,57.2,28.6514781,77.1473105,2025-09-21T12:15:00Z,2025-09-21 14:46:44.541833
+5630,"Shadipur, Delhi - CPCB",India,Central Pollution Control Board,14959,pm25 µg/m³,pm25,µg/m³,PM2.5,139.2,28.6514781,77.1473105,2022-10-31T02:00:00Z,2025-09-21 14:46:44.541833
+5630,"Shadipur, Delhi - CPCB",India,Central Pollution Control Board,12234727,relativehumidity %,relativehumidity,%,RH,72.81,28.6514781,77.1473105,2025-09-21T12:15:00Z,2025-09-21 14:46:44.541833
+5630,"Shadipur, Delhi - CPCB",India,Central Pollution Control Board,12234728,so2 ppb,so2,ppb,SO₂,14.4,28.6514781,77.1473105,2025-09-21T12:15:00Z,2025-09-21 14:46:44.541833
+5630,"Shadipur, Delhi - CPCB",India,Central Pollution Control Board,14952,so2 µg/m³,so2,µg/m³,SO₂ mass,10.3,28.6514781,77.1473105,2022-10-31T02:00:00Z,2025-09-21 14:46:44.541833
+5630,"Shadipur, Delhi - CPCB",India,Central Pollution Control Board,12234729,temperature c,temperature,c,Temperature (C),31.17,28.6514781,77.1473105,2025-09-21T12:15:00Z,2025-09-21 14:46:44.541833
+5634,"Lodhi Road, New Delhi - IMD",India,India Meteorological Department,12234709,co ppb,co,ppb,CO,0.39,28.5918245,77.2273074,2025-07-27T14:15:00Z,2025-09-21 14:46:44.541833
+5634,"Lodhi Road, New Delhi - IMD",India,India Meteorological Department,14978,co µg/m³,co,µg/m³,CO mass,1940.0,28.5918245,77.2273074,2022-10-16T10:15:00Z,2025-09-21 14:46:44.541833
+5634,"Lodhi Road, New Delhi - IMD",India,India Meteorological Department,12234710,no ppb,no,ppb,NO,8.36,28.5918245,77.2273074,2025-07-27T14:15:00Z,2025-09-21 14:46:44.541833
+5634,"Lodhi Road, New Delhi - IMD",India,India Meteorological Department,12234711,no2 ppb,no2,ppb,NO₂,6.39,28.5918245,77.2273074,2025-06-12T08:45:00Z,2025-09-21 14:46:44.541833
+5634,"Lodhi Road, New Delhi - IMD",India,India Meteorological Department,14980,no2 µg/m³,no2,µg/m³,NO₂ mass,6.96,28.5918245,77.2273074,2022-10-16T10:15:00Z,2025-09-21 14:46:44.541833
+5634,"Lodhi Road, New Delhi - IMD",India,India Meteorological Department,14981,o3 µg/m³,o3,µg/m³,O₃ mass,47.96,28.5918245,77.2273074,2022-10-16T10:15:00Z,2025-09-21 14:46:44.541833
+5634,"Lodhi Road, New Delhi - IMD",India,India Meteorological Department,12234712,o3 µg/m³,o3,µg/m³,O₃ mass,-27.7,28.5918245,77.2273074,2025-07-27T14:15:00Z,2025-09-21 14:46:44.541833
+5634,"Lodhi Road, New Delhi - IMD",India,India Meteorological Department,14983,pm10 µg/m³,pm10,µg/m³,PM10,155.4,28.5918245,77.2273074,2022-10-16T10:15:00Z,2025-09-21 14:46:44.541833
+5634,"Lodhi Road, New Delhi - IMD",India,India Meteorological Department,12234713,pm10 µg/m³,pm10,µg/m³,PM10,63.93,28.5918245,77.2273074,2025-07-27T14:15:00Z,2025-09-21 14:46:44.541833
+5634,"Lodhi Road, New Delhi - IMD",India,India Meteorological Department,14984,pm25 µg/m³,pm25,µg/m³,PM2.5,64.29,28.5918245,77.2273074,2022-10-16T10:15:00Z,2025-09-21 14:46:44.541833
+5634,"Lodhi Road, New Delhi - IMD",India,India Meteorological Department,12234714,pm25 µg/m³,pm25,µg/m³,PM2.5,27.34,28.5918245,77.2273074,2025-07-27T14:15:00Z,2025-09-21 14:46:44.541833
+5639,"R K Puram, New Delhi - DPCC",India,Unknown Governmental Organization,15008,co µg/m³,co,µg/m³,CO mass,3000.0,28.5646102,77.1670103,2018-05-06T19:30:00Z,2025-09-21 14:46:44.541833
+5639,"R K Puram, New Delhi - DPCC",India,Unknown Governmental Organization,15030,no2 µg/m³,no2,µg/m³,NO₂ mass,81.4,28.5646102,77.1670103,2018-05-06T19:30:00Z,2025-09-21 14:46:44.541833
+5639,"R K Puram, New Delhi - DPCC",India,Unknown Governmental Organization,15042,o3 µg/m³,o3,µg/m³,O₃ mass,8.7,28.5646102,77.1670103,2018-05-06T19:30:00Z,2025-09-21 14:46:44.541833
+5639,"R K Puram, New Delhi - DPCC",India,Unknown Governmental Organization,15059,pm10 µg/m³,pm10,µg/m³,PM10,296.0,28.5646102,77.1670103,2018-05-12T04:45:00Z,2025-09-21 14:46:44.541833
+5639,"R K Puram, New Delhi - DPCC",India,Unknown Governmental Organization,15071,pm25 µg/m³,pm25,µg/m³,PM2.5,213.0,28.5646102,77.1670103,2018-05-12T04:45:00Z,2025-09-21 14:46:44.541833
+5639,"R K Puram, New Delhi - DPCC",India,Unknown Governmental Organization,15092,so2 µg/m³,so2,µg/m³,SO₂ mass,18.4,28.5646102,77.1670103,2018-05-06T19:30:00Z,2025-09-21 14:46:44.541833
+5641,"Mandir Marg, New Delhi - DPCC",India,Unknown Governmental Organization,15028,co µg/m³,co,µg/m³,CO mass,400.0,28.6372688,77.2005604,2018-05-10T07:30:00Z,2025-09-21 14:46:44.541833
+5641,"Mandir Marg, New Delhi - DPCC",India,Unknown Governmental Organization,15025,no2 µg/m³,no2,µg/m³,NO₂ mass,26.9,28.6372688,77.2005604,2018-05-10T07:30:00Z,2025-09-21 14:46:44.541833
+5641,"Mandir Marg, New Delhi - DPCC",India,Unknown Governmental Organization,15023,o3 µg/m³,o3,µg/m³,O₃ mass,99.0,28.6372688,77.2005604,2018-05-10T07:30:00Z,2025-09-21 14:46:44.541833
+5641,"Mandir Marg, New Delhi - DPCC",India,Unknown Governmental Organization,15022,pm10 µg/m³,pm10,µg/m³,PM10,251.0,28.6372688,77.2005604,2018-05-12T04:30:00Z,2025-09-21 14:46:44.541833
+5641,"Mandir Marg, New Delhi - DPCC",India,Unknown Governmental Organization,15014,pm25 µg/m³,pm25,µg/m³,PM2.5,134.0,28.6372688,77.2005604,2018-05-12T04:30:00Z,2025-09-21 14:46:44.541833
+5641,"Mandir Marg, New Delhi - DPCC",India,Unknown Governmental Organization,15013,so2 µg/m³,so2,µg/m³,SO₂ mass,18.0,28.6372688,77.2005604,2018-05-10T07:30:00Z,2025-09-21 14:46:44.541833
+5650,"IGI Airport (T3), Delhi - IMD",India,India Meteorological Department,12234691,co ppb,co,ppb,CO,0.3268783792853355,28.5627763,77.1180053,2025-06-06T08:16:00Z,2025-09-21 14:46:44.541833
+5650,"IGI Airport (T3), Delhi - IMD",India,India Meteorological Department,12234692,no ppb,no,ppb,NO,1.9311,28.5627763,77.1180053,2025-09-21T12:00:00Z,2025-09-21 14:46:44.541833
+5650,"IGI Airport (T3), Delhi - IMD",India,India Meteorological Department,12234693,no2 ppb,no2,ppb,NO₂,42.093199999999996,28.5627763,77.1180053,2025-09-21T12:00:00Z,2025-09-21 14:46:44.541833
+5650,"IGI Airport (T3), Delhi - IMD",India,India Meteorological Department,12234694,o3 µg/m³,o3,µg/m³,O₃ mass,0.588,28.5627763,77.1180053,2025-09-21T12:00:00Z,2025-09-21 14:46:44.541833
+5650,"IGI Airport (T3), Delhi - IMD",India,India Meteorological Department,12234695,pm10 µg/m³,pm10,µg/m³,PM10,112.26,28.5627763,77.1180053,2025-09-21T12:00:00Z,2025-09-21 14:46:44.541833
+5650,"IGI Airport (T3), Delhi - IMD",India,India Meteorological Department,12234696,pm25 µg/m³,pm25,µg/m³,PM2.5,30.25,28.5627763,77.1180053,2025-09-21T12:00:00Z,2025-09-21 14:46:44.541833
+5742,"Patparganj, Delhi - DPCC",India,Unknown Governmental Organization,15498,no2 µg/m³,no2,µg/m³,NO₂ mass,10.3,28.6310495,77.2846218,2018-05-08T06:30:00Z,2025-09-21 14:46:44.541833
+5742,"Patparganj, Delhi - DPCC",India,Unknown Governmental Organization,15500,o3 µg/m³,o3,µg/m³,O₃ mass,139.3,28.6310495,77.2846218,2018-05-08T06:30:00Z,2025-09-21 14:46:44.541833
+5742,"Patparganj, Delhi - DPCC",India,Unknown Governmental Organization,15628,pm10 µg/m³,pm10,µg/m³,PM10,149.0,28.6310495,77.2846218,2018-05-13T11:30:00Z,2025-09-21 14:46:44.541833
+5742,"Patparganj, Delhi - DPCC",India,Unknown Governmental Organization,15629,pm25 µg/m³,pm25,µg/m³,PM2.5,67.0,28.6310495,77.2846218,2018-05-13T11:30:00Z,2025-09-21 14:46:44.541833
+5742,"Patparganj, Delhi - DPCC",India,Unknown Governmental Organization,15499,so2 µg/m³,so2,µg/m³,SO₂ mass,6.9,28.6310495,77.2846218,2018-05-08T06:30:00Z,2025-09-21 14:46:44.541833
+5744,"Dr. Karni Singh Shooting Range, Delhi - DPCC",India,Unknown Governmental Organization,15510,co µg/m³,co,µg/m³,CO mass,150.0,28.4997315,77.2649067,2018-05-09T11:00:00Z,2025-09-21 14:46:44.541833
+5744,"Dr. Karni Singh Shooting Range, Delhi - DPCC",India,Unknown Governmental Organization,15505,no2 µg/m³,no2,µg/m³,NO₂ mass,32.4,28.4997315,77.2649067,2018-05-09T11:00:00Z,2025-09-21 14:46:44.541833
+5744,"Dr. Karni Singh Shooting Range, Delhi - DPCC",India,Unknown Governmental Organization,15507,o3 µg/m³,o3,µg/m³,O₃ mass,3.0,28.4997315,77.2649067,2018-05-09T11:00:00Z,2025-09-21 14:46:44.541833
+5744,"Dr. Karni Singh Shooting Range, Delhi - DPCC",India,Unknown Governmental Organization,15588,pm10 µg/m³,pm10,µg/m³,PM10,249.0,28.4997315,77.2649067,2018-05-12T04:45:00Z,2025-09-21 14:46:44.541833
+5744,"Dr. Karni Singh Shooting Range, Delhi - DPCC",India,Unknown Governmental Organization,15589,pm25 µg/m³,pm25,µg/m³,PM2.5,129.0,28.4997315,77.2649067,2018-05-12T04:45:00Z,2025-09-21 14:46:44.541833
+5744,"Dr. Karni Singh Shooting Range, Delhi - DPCC",India,Unknown Governmental Organization,15509,so2 µg/m³,so2,µg/m³,SO₂ mass,29.0,28.4997315,77.2649067,2018-05-09T11:00:00Z,2025-09-21 14:46:44.541833
+5753,"Vivek Vihar, Delhi - DPCC",India,Unknown Governmental Organization,15545,co µg/m³,co,µg/m³,CO mass,700.0,28.6687803,77.3130982,2018-05-10T09:00:00Z,2025-09-21 14:46:44.541833
+5753,"Vivek Vihar, Delhi - DPCC",India,Unknown Governmental Organization,15544,no2 µg/m³,no2,µg/m³,NO₂ mass,18.1,28.6687803,77.3130982,2018-05-10T09:00:00Z,2025-09-21 14:46:44.541833
+5753,"Vivek Vihar, Delhi - DPCC",India,Unknown Governmental Organization,15543,o3 µg/m³,o3,µg/m³,O₃ mass,181.1,28.6687803,77.3130982,2018-05-10T09:00:00Z,2025-09-21 14:46:44.541833
+5753,"Vivek Vihar, Delhi - DPCC",India,Unknown Governmental Organization,15615,pm10 µg/m³,pm10,µg/m³,PM10,416.0,28.6687803,77.3130982,2018-05-12T06:00:00Z,2025-09-21 14:46:44.541833
+5753,"Vivek Vihar, Delhi - DPCC",India,Unknown Governmental Organization,15604,pm25 µg/m³,pm25,µg/m³,PM2.5,162.0,28.6687803,77.3130982,2018-05-12T06:00:00Z,2025-09-21 14:46:44.541833
+5753,"Vivek Vihar, Delhi - DPCC",India,Unknown Governmental Organization,15546,so2 µg/m³,so2,µg/m³,SO₂ mass,7.2,28.6687803,77.3130982,2018-05-10T09:00:00Z,2025-09-21 14:46:44.541833
+5754,"Jawaharlal Nehru Stadium, Delhi - DPCC",India,Unknown Governmental Organization,15548,co µg/m³,co,µg/m³,CO mass,900.0,28.5828503,77.2321778,2018-05-10T09:30:00Z,2025-09-21 14:46:44.541833
+5754,"Jawaharlal Nehru Stadium, Delhi - DPCC",India,Unknown Governmental Organization,15547,no2 µg/m³,no2,µg/m³,NO₂ mass,23.4,28.5828503,77.2321778,2018-05-10T09:30:00Z,2025-09-21 14:46:44.541833
+5754,"Jawaharlal Nehru Stadium, Delhi - DPCC",India,Unknown Governmental Organization,15550,o3 µg/m³,o3,µg/m³,O₃ mass,200.5,28.5828503,77.2321778,2018-05-10T09:30:00Z,2025-09-21 14:46:44.541833
+5754,"Jawaharlal Nehru Stadium, Delhi - DPCC",India,Unknown Governmental Organization,15619,pm10 µg/m³,pm10,µg/m³,PM10,378.0,28.5828503,77.2321778,2018-05-12T06:30:00Z,2025-09-21 14:46:44.541833
+5754,"Jawaharlal Nehru Stadium, Delhi - DPCC",India,Unknown Governmental Organization,15620,pm25 µg/m³,pm25,µg/m³,PM2.5,152.0,28.5828503,77.2321778,2018-05-12T06:30:00Z,2025-09-21 14:46:44.541833
+5754,"Jawaharlal Nehru Stadium, Delhi - DPCC",India,Unknown Governmental Organization,15552,so2 µg/m³,so2,µg/m³,SO₂ mass,17.6,28.5828503,77.2321778,2018-05-10T09:30:00Z,2025-09-21 14:46:44.541833
+5755,"Major Dhyan Chand National Stadium, Delhi - DPCC",India,Unknown Governmental Organization,15582,co µg/m³,co,µg/m³,CO mass,1800.0,28.6125027,77.2351994,2018-05-12T04:30:00Z,2025-09-21 14:46:44.541833
+5755,"Major Dhyan Chand National Stadium, Delhi - DPCC",India,Unknown Governmental Organization,15574,no2 µg/m³,no2,µg/m³,NO₂ mass,87.4,28.6125027,77.2351994,2018-05-12T04:30:00Z,2025-09-21 14:46:44.541833
+5755,"Major Dhyan Chand National Stadium, Delhi - DPCC",India,Unknown Governmental Organization,15586,o3 µg/m³,o3,µg/m³,O₃ mass,104.1,28.6125027,77.2351994,2018-05-12T04:30:00Z,2025-09-21 14:46:44.541833
+5755,"Major Dhyan Chand National Stadium, Delhi - DPCC",India,Unknown Governmental Organization,15549,pm10 µg/m³,pm10,µg/m³,PM10,155.0,28.6125027,77.2351994,2018-05-10T09:30:00Z,2025-09-21 14:46:44.541833
+5755,"Major Dhyan Chand National Stadium, Delhi - DPCC",India,Unknown Governmental Organization,15551,pm25 µg/m³,pm25,µg/m³,PM2.5,62.0,28.6125027,77.2351994,2018-05-10T09:30:00Z,2025-09-21 14:46:44.541833
+5755,"Major Dhyan Chand National Stadium, Delhi - DPCC",India,Unknown Governmental Organization,15587,so2 µg/m³,so2,µg/m³,SO₂ mass,0.1,28.6125027,77.2351994,2018-05-12T04:30:00Z,2025-09-21 14:46:44.541833
+5759,"Sonia Vihar, Delhi - DPCC",India,Unknown Governmental Organization,15568,co µg/m³,co,µg/m³,CO mass,0.6,28.67795,77.29868,2018-05-11T11:45:00Z,2025-09-21 14:46:44.541833
+5759,"Sonia Vihar, Delhi - DPCC",India,Unknown Governmental Organization,15567,no2 µg/m³,no2,µg/m³,NO₂ mass,6.2,28.67795,77.29868,2018-05-11T11:45:00Z,2025-09-21 14:46:44.541833
+5759,"Sonia Vihar, Delhi - DPCC",India,Unknown Governmental Organization,15566,o3 µg/m³,o3,µg/m³,O₃ mass,198.7,28.67795,77.29868,2018-05-11T11:45:00Z,2025-09-21 14:46:44.541833
+5759,"Sonia Vihar, Delhi - DPCC",India,Unknown Governmental Organization,15591,pm10 µg/m³,pm10,µg/m³,PM10,353.0,28.67795,77.29868,2018-05-12T05:00:00Z,2025-09-21 14:46:44.541833
+5759,"Sonia Vihar, Delhi - DPCC",India,Unknown Governmental Organization,15595,pm25 µg/m³,pm25,µg/m³,PM2.5,151.0,28.67795,77.29868,2018-05-12T05:00:00Z,2025-09-21 14:46:44.541833
+5759,"Sonia Vihar, Delhi - DPCC",India,Unknown Governmental Organization,15565,so2 µg/m³,so2,µg/m³,SO₂ mass,0.1,28.67795,77.29868,2018-05-11T11:45:00Z,2025-09-21 14:46:44.541833
+5761,"Jahangirpuri, Delhi - DPCC",India,Unknown Governmental Organization,15578,co µg/m³,co,µg/m³,CO mass,2300.0,28.7258373,77.1605631,2018-05-12T04:30:00Z,2025-09-21 14:46:44.541833
+5761,"Jahangirpuri, Delhi - DPCC",India,Unknown Governmental Organization,15572,no2 µg/m³,no2,µg/m³,NO₂ mass,111.2,28.7258373,77.1605631,2018-05-12T04:30:00Z,2025-09-21 14:46:44.541833
+5761,"Jahangirpuri, Delhi - DPCC",India,Unknown Governmental Organization,15577,o3 µg/m³,o3,µg/m³,O₃ mass,64.2,28.7258373,77.1605631,2018-05-12T04:30:00Z,2025-09-21 14:46:44.541833
+5761,"Jahangirpuri, Delhi - DPCC",India,Unknown Governmental Organization,15623,pm10 µg/m³,pm10,µg/m³,PM10,307.0,28.7258373,77.1605631,2018-05-12T06:30:00Z,2025-09-21 14:46:44.541833
+5761,"Jahangirpuri, Delhi - DPCC",India,Unknown Governmental Organization,15621,pm25 µg/m³,pm25,µg/m³,PM2.5,127.0,28.7258373,77.1605631,2018-05-12T06:30:00Z,2025-09-21 14:46:44.541833
+5761,"Jahangirpuri, Delhi - DPCC",India,Unknown Governmental Organization,15585,so2 µg/m³,so2,µg/m³,SO₂ mass,34.4,28.7258373,77.1605631,2018-05-12T04:30:00Z,2025-09-21 14:46:44.541833
+5762,"Ashok Vihar, Delhi - DPCC",India,Unknown Governmental Organization,15583,co µg/m³,co,µg/m³,CO mass,900.0,28.6957202,77.1812947,2018-05-12T04:30:00Z,2025-09-21 14:46:44.541833
+5762,"Ashok Vihar, Delhi - DPCC",India,Unknown Governmental Organization,15584,no2 µg/m³,no2,µg/m³,NO₂ mass,36.9,28.6957202,77.1812947,2018-05-12T04:30:00Z,2025-09-21 14:46:44.541833
+5762,"Ashok Vihar, Delhi - DPCC",India,Unknown Governmental Organization,15573,o3 µg/m³,o3,µg/m³,O₃ mass,131.7,28.6957202,77.1812947,2018-05-12T04:30:00Z,2025-09-21 14:46:44.541833
+5762,"Ashok Vihar, Delhi - DPCC",India,Unknown Governmental Organization,15605,pm10 µg/m³,pm10,µg/m³,PM10,366.0,28.6957202,77.1812947,2018-05-12T06:00:00Z,2025-09-21 14:46:44.541833
+5762,"Ashok Vihar, Delhi - DPCC",India,Unknown Governmental Organization,15602,pm25 µg/m³,pm25,µg/m³,PM2.5,139.0,28.6957202,77.1812947,2018-05-12T06:00:00Z,2025-09-21 14:46:44.541833
+5762,"Ashok Vihar, Delhi - DPCC",India,Unknown Governmental Organization,15579,so2 µg/m³,so2,µg/m³,SO₂ mass,2.3,28.6957202,77.1812947,2018-05-12T04:30:00Z,2025-09-21 14:46:44.541833
+5765,"Okhla Phase-2, Delhi - DPCC",India,Unknown Governmental Organization,15597,co µg/m³,co,µg/m³,CO mass,1400.0,28.5366411,77.2664587,2018-05-12T05:30:00Z,2025-09-21 14:46:44.541833
+5765,"Okhla Phase-2, Delhi - DPCC",India,Unknown Governmental Organization,15600,no2 µg/m³,no2,µg/m³,NO₂ mass,14.1,28.5366411,77.2664587,2018-05-12T05:30:00Z,2025-09-21 14:46:44.541833
+5765,"Okhla Phase-2, Delhi - DPCC",India,Unknown Governmental Organization,15598,o3 µg/m³,o3,µg/m³,O₃ mass,62.2,28.5366411,77.2664587,2018-05-12T05:30:00Z,2025-09-21 14:46:44.541833
+5765,"Okhla Phase-2, Delhi - DPCC",India,Unknown Governmental Organization,15624,pm10 µg/m³,pm10,µg/m³,PM10,233.0,28.5366411,77.2664587,2018-05-13T10:00:00Z,2025-09-21 14:46:44.541833
+5765,"Okhla Phase-2, Delhi - DPCC",India,Unknown Governmental Organization,15627,pm25 µg/m³,pm25,µg/m³,PM2.5,74.0,28.5366411,77.2664587,2018-05-13T10:00:00Z,2025-09-21 14:46:44.541833
+5765,"Okhla Phase-2, Delhi - DPCC",India,Unknown Governmental Organization,15599,so2 µg/m³,so2,µg/m³,SO₂ mass,17.4,28.5366411,77.2664587,2018-05-12T05:30:00Z,2025-09-21 14:46:44.541833
+5766,"Nehru Nagar, Delhi - DPCC",India,Unknown Governmental Organization,15607,co µg/m³,co,µg/m³,CO mass,1200.0,28.5639543,77.2587868,2018-05-12T06:00:00Z,2025-09-21 14:46:44.541833
+5766,"Nehru Nagar, Delhi - DPCC",India,Unknown Governmental Organization,15612,no2 µg/m³,no2,µg/m³,NO₂ mass,19.1,28.5639543,77.2587868,2018-05-12T06:00:00Z,2025-09-21 14:46:44.541833
+5766,"Nehru Nagar, Delhi - DPCC",India,Unknown Governmental Organization,15616,o3 µg/m³,o3,µg/m³,O₃ mass,214.0,28.5639543,77.2587868,2018-05-12T06:00:00Z,2025-09-21 14:46:44.541833
+5766,"Nehru Nagar, Delhi - DPCC",India,Unknown Governmental Organization,15625,pm10 µg/m³,pm10,µg/m³,PM10,180.0,28.5639543,77.2587868,2018-05-13T10:00:00Z,2025-09-21 14:46:44.541833
+5766,"Nehru Nagar, Delhi - DPCC",India,Unknown Governmental Organization,15626,pm25 µg/m³,pm25,µg/m³,PM2.5,75.0,28.5639543,77.2587868,2018-05-13T10:00:00Z,2025-09-21 14:46:44.541833
+5766,"Nehru Nagar, Delhi - DPCC",India,Unknown Governmental Organization,15608,so2 µg/m³,so2,µg/m³,SO₂ mass,18.8,28.5639543,77.2587868,2018-05-12T06:00:00Z,2025-09-21 14:46:44.541833
+6356,"Pusa, Delhi - DPCC",India,Delhi Pollution Control Committee,12235316,co ppb,co,ppb,CO,1.45,28.639645,77.146262,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+6356,"Pusa, Delhi - DPCC",India,Delhi Pollution Control Committee,12235317,no ppb,no,ppb,NO,9.6,28.639645,77.146262,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+6356,"Pusa, Delhi - DPCC",India,Delhi Pollution Control Committee,12235318,no2 ppb,no2,ppb,NO₂,72.0,28.639645,77.146262,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+6356,"Pusa, Delhi - DPCC",India,Delhi Pollution Control Committee,12235319,o3 µg/m³,o3,µg/m³,O₃ mass,30.2,28.639645,77.146262,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+6356,"Pusa, Delhi - DPCC",India,Delhi Pollution Control Committee,12235320,pm10 µg/m³,pm10,µg/m³,PM10,185.0,28.639645,77.146262,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+6356,"Pusa, Delhi - DPCC",India,Delhi Pollution Control Committee,12235321,pm25 µg/m³,pm25,µg/m³,PM2.5,35.0,28.639645,77.146262,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+6356,"Pusa, Delhi - DPCC",India,Delhi Pollution Control Committee,12235322,relativehumidity %,relativehumidity,%,RH,49.0,28.639645,77.146262,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+6356,"Pusa, Delhi - DPCC",India,Delhi Pollution Control Committee,12235323,so2 ppb,so2,ppb,SO₂,35.4,28.639645,77.146262,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+6356,"Pusa, Delhi - DPCC",India,Delhi Pollution Control Committee,12235324,temperature c,temperature,c,Temperature (C),35.1,28.639645,77.146262,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+6357,"Punjabi Bagh, Delhi - DPCC",India,Unknown Governmental Organization,17769,co µg/m³,co,µg/m³,CO mass,1500.0,28.674045000000003,77.13102300000001,2022-10-16T14:15:00Z,2025-09-21 14:46:44.541833
+6357,"Punjabi Bagh, Delhi - DPCC",India,Unknown Governmental Organization,17771,no2 µg/m³,no2,µg/m³,NO₂ mass,54.7,28.674045000000003,77.13102300000001,2022-10-16T14:15:00Z,2025-09-21 14:46:44.541833
+6357,"Punjabi Bagh, Delhi - DPCC",India,Unknown Governmental Organization,17774,o3 µg/m³,o3,µg/m³,O₃ mass,6.3,28.674045000000003,77.13102300000001,2022-10-16T14:15:00Z,2025-09-21 14:46:44.541833
+6357,"Punjabi Bagh, Delhi - DPCC",India,Unknown Governmental Organization,17768,pm10 µg/m³,pm10,µg/m³,PM10,219.0,28.674045000000003,77.13102300000001,2022-10-16T14:15:00Z,2025-09-21 14:46:44.541833
+6357,"Punjabi Bagh, Delhi - DPCC",India,Unknown Governmental Organization,17776,pm25 µg/m³,pm25,µg/m³,PM2.5,68.0,28.674045000000003,77.13102300000001,2022-10-16T14:15:00Z,2025-09-21 14:46:44.541833
+6357,"Punjabi Bagh, Delhi - DPCC",India,Unknown Governmental Organization,17778,so2 µg/m³,so2,µg/m³,SO₂ mass,21.7,28.674045000000003,77.13102300000001,2022-10-16T14:15:00Z,2025-09-21 14:46:44.541833
+6358,"Mandir Marg, New Delhi - DPCC",India,Delhi Pollution Control Committee,12234773,co ppb,co,ppb,CO,0.72,28.636429,77.201067,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+6358,"Mandir Marg, New Delhi - DPCC",India,Delhi Pollution Control Committee,17772,co µg/m³,co,µg/m³,CO mass,0.0,28.636429,77.201067,2022-10-31T00:45:00Z,2025-09-21 14:46:44.541833
+6358,"Mandir Marg, New Delhi - DPCC",India,Delhi Pollution Control Committee,12234774,no ppb,no,ppb,NO,4.6,28.636429,77.201067,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+6358,"Mandir Marg, New Delhi - DPCC",India,Delhi Pollution Control Committee,17773,no2 µg/m³,no2,µg/m³,NO₂ mass,34.8,28.636429,77.201067,2022-10-31T00:45:00Z,2025-09-21 14:46:44.541833
+6358,"Mandir Marg, New Delhi - DPCC",India,Delhi Pollution Control Committee,12234775,no2 ppb,no2,ppb,NO₂,14.9,28.636429,77.201067,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+6358,"Mandir Marg, New Delhi - DPCC",India,Delhi Pollution Control Committee,12234776,o3 µg/m³,o3,µg/m³,O₃ mass,110.3,28.636429,77.201067,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+6358,"Mandir Marg, New Delhi - DPCC",India,Delhi Pollution Control Committee,17777,o3 µg/m³,o3,µg/m³,O₃ mass,5.7,28.636429,77.201067,2022-10-31T00:45:00Z,2025-09-21 14:46:44.541833
+6358,"Mandir Marg, New Delhi - DPCC",India,Delhi Pollution Control Committee,12234777,pm10 µg/m³,pm10,µg/m³,PM10,150.0,28.636429,77.201067,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+6358,"Mandir Marg, New Delhi - DPCC",India,Delhi Pollution Control Committee,17775,pm10 µg/m³,pm10,µg/m³,PM10,268.0,28.636429,77.201067,2022-10-31T00:45:00Z,2025-09-21 14:46:44.541833
+6358,"Mandir Marg, New Delhi - DPCC",India,Delhi Pollution Control Committee,12234778,pm25 µg/m³,pm25,µg/m³,PM2.5,33.0,28.636429,77.201067,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+6358,"Mandir Marg, New Delhi - DPCC",India,Delhi Pollution Control Committee,17770,pm25 µg/m³,pm25,µg/m³,PM2.5,60.0,28.636429,77.201067,2022-10-31T00:45:00Z,2025-09-21 14:46:44.541833
+6358,"Mandir Marg, New Delhi - DPCC",India,Delhi Pollution Control Committee,12234779,relativehumidity %,relativehumidity,%,RH,64.0,28.636429,77.201067,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+6358,"Mandir Marg, New Delhi - DPCC",India,Delhi Pollution Control Committee,12234780,so2 ppb,so2,ppb,SO₂,33.3,28.636429,77.201067,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+6358,"Mandir Marg, New Delhi - DPCC",India,Delhi Pollution Control Committee,17779,so2 µg/m³,so2,µg/m³,SO₂ mass,17.8,28.636429,77.201067,2022-10-31T00:45:00Z,2025-09-21 14:46:44.541833
+6358,"Mandir Marg, New Delhi - DPCC",India,Delhi Pollution Control Committee,12234781,temperature c,temperature,c,Temperature (C),28.1,28.636429,77.201067,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+6359,"IHBAS, Dilshad Garden,New Delhi - CPCB",India,Central Pollution Control Board,17792,co µg/m³,co,µg/m³,CO mass,1750.0,28.6811736,77.3025234,2022-10-31T01:45:00Z,2025-09-21 14:46:44.541833
+6359,"IHBAS, Dilshad Garden,New Delhi - CPCB",India,Central Pollution Control Board,12234730,co ppb,co,ppb,CO,0.818,28.6811736,77.3025234,2025-09-21T12:00:00Z,2025-09-21 14:46:44.541833
+6359,"IHBAS, Dilshad Garden,New Delhi - CPCB",India,Central Pollution Control Board,12234731,no ppb,no,ppb,NO,5.07,28.6811736,77.3025234,2025-09-21T12:00:00Z,2025-09-21 14:46:44.541833
+6359,"IHBAS, Dilshad Garden,New Delhi - CPCB",India,Central Pollution Control Board,17791,no2 µg/m³,no2,µg/m³,NO₂ mass,11.42,28.6811736,77.3025234,2022-10-31T01:45:00Z,2025-09-21 14:46:44.541833
+6359,"IHBAS, Dilshad Garden,New Delhi - CPCB",India,Central Pollution Control Board,12234732,no2 ppb,no2,ppb,NO₂,35.35,28.6811736,77.3025234,2025-09-21T12:00:00Z,2025-09-21 14:46:44.541833
+6359,"IHBAS, Dilshad Garden,New Delhi - CPCB",India,Central Pollution Control Board,12234733,o3 µg/m³,o3,µg/m³,O₃ mass,11.71,28.6811736,77.3025234,2025-09-21T12:00:00Z,2025-09-21 14:46:44.541833
+6359,"IHBAS, Dilshad Garden,New Delhi - CPCB",India,Central Pollution Control Board,36058,o3 µg/m³,o3,µg/m³,O₃ mass,1.5,28.6811736,77.3025234,2022-10-31T01:45:00Z,2025-09-21 14:46:44.541833
+6359,"IHBAS, Dilshad Garden,New Delhi - CPCB",India,Central Pollution Control Board,36050,pm10 µg/m³,pm10,µg/m³,PM10,309.7,28.6811736,77.3025234,2022-10-31T01:45:00Z,2025-09-21 14:46:44.541833
+6359,"IHBAS, Dilshad Garden,New Delhi - CPCB",India,Central Pollution Control Board,12234734,pm10 µg/m³,pm10,µg/m³,PM10,102.3,28.6811736,77.3025234,2025-09-21T12:00:00Z,2025-09-21 14:46:44.541833
+6359,"IHBAS, Dilshad Garden,New Delhi - CPCB",India,Central Pollution Control Board,17790,pm25 µg/m³,pm25,µg/m³,PM2.5,99.5,28.6811736,77.3025234,2022-10-31T01:45:00Z,2025-09-21 14:46:44.541833
+6359,"IHBAS, Dilshad Garden,New Delhi - CPCB",India,Central Pollution Control Board,12234735,pm25 µg/m³,pm25,µg/m³,PM2.5,51.1,28.6811736,77.3025234,2025-09-21T12:00:00Z,2025-09-21 14:46:44.541833
+6359,"IHBAS, Dilshad Garden,New Delhi - CPCB",India,Central Pollution Control Board,12234736,relativehumidity %,relativehumidity,%,RH,50.01,28.6811736,77.3025234,2025-09-21T12:00:00Z,2025-09-21 14:46:44.541833
+6359,"IHBAS, Dilshad Garden,New Delhi - CPCB",India,Central Pollution Control Board,12234737,so2 ppb,so2,ppb,SO₂,14.79,28.6811736,77.3025234,2025-09-21T12:00:00Z,2025-09-21 14:46:44.541833
+6359,"IHBAS, Dilshad Garden,New Delhi - CPCB",India,Central Pollution Control Board,17780,so2 µg/m³,so2,µg/m³,SO₂ mass,5.9,28.6811736,77.3025234,2022-10-31T01:45:00Z,2025-09-21 14:46:44.541833
+6359,"IHBAS, Dilshad Garden,New Delhi - CPCB",India,Central Pollution Control Board,12234738,temperature c,temperature,c,Temperature (C),30.94,28.6811736,77.3025234,2025-09-21T12:00:00Z,2025-09-21 14:46:44.541833
+6929,"Major Dhyan Chand National Stadium, Delhi - DPCC",India,Delhi Pollution Control Committee,12235042,co ppb,co,ppb,CO,0.68,28.611281,77.237738,2025-09-21T12:15:00Z,2025-09-21 14:46:44.541833
+6929,"Major Dhyan Chand National Stadium, Delhi - DPCC",India,Delhi Pollution Control Committee,19901,co µg/m³,co,µg/m³,CO mass,300.0,28.611281,77.237738,2022-10-31T00:00:00Z,2025-09-21 14:46:44.541833
+6929,"Major Dhyan Chand National Stadium, Delhi - DPCC",India,Delhi Pollution Control Committee,12235043,no ppb,no,ppb,NO,2.0,28.611281,77.237738,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+6929,"Major Dhyan Chand National Stadium, Delhi - DPCC",India,Delhi Pollution Control Committee,12235044,no2 ppb,no2,ppb,NO₂,27.5,28.611281,77.237738,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+6929,"Major Dhyan Chand National Stadium, Delhi - DPCC",India,Delhi Pollution Control Committee,19902,no2 µg/m³,no2,µg/m³,NO₂ mass,46.4,28.611281,77.237738,2022-10-31T00:45:00Z,2025-09-21 14:46:44.541833
+6929,"Major Dhyan Chand National Stadium, Delhi - DPCC",India,Delhi Pollution Control Committee,19903,o3 µg/m³,o3,µg/m³,O₃ mass,1.0,28.611281,77.237738,2022-10-31T00:45:00Z,2025-09-21 14:46:44.541833
+6929,"Major Dhyan Chand National Stadium, Delhi - DPCC",India,Delhi Pollution Control Committee,12235045,o3 µg/m³,o3,µg/m³,O₃ mass,57.3,28.611281,77.237738,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+6929,"Major Dhyan Chand National Stadium, Delhi - DPCC",India,Delhi Pollution Control Committee,19904,pm10 µg/m³,pm10,µg/m³,PM10,327.0,28.611281,77.237738,2022-10-31T00:45:00Z,2025-09-21 14:46:44.541833
+6929,"Major Dhyan Chand National Stadium, Delhi - DPCC",India,Delhi Pollution Control Committee,12235046,pm10 µg/m³,pm10,µg/m³,PM10,135.0,28.611281,77.237738,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+6929,"Major Dhyan Chand National Stadium, Delhi - DPCC",India,Delhi Pollution Control Committee,19900,pm25 µg/m³,pm25,µg/m³,PM2.5,228.0,28.611281,77.237738,2022-10-31T00:45:00Z,2025-09-21 14:46:44.541833
+6929,"Major Dhyan Chand National Stadium, Delhi - DPCC",India,Delhi Pollution Control Committee,12235047,pm25 µg/m³,pm25,µg/m³,PM2.5,34.0,28.611281,77.237738,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+6929,"Major Dhyan Chand National Stadium, Delhi - DPCC",India,Delhi Pollution Control Committee,12235048,relativehumidity %,relativehumidity,%,RH,53.0,28.611281,77.237738,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+6929,"Major Dhyan Chand National Stadium, Delhi - DPCC",India,Delhi Pollution Control Committee,12235049,so2 ppb,so2,ppb,SO₂,8.2,28.611281,77.237738,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+6929,"Major Dhyan Chand National Stadium, Delhi - DPCC",India,Delhi Pollution Control Committee,19899,so2 µg/m³,so2,µg/m³,SO₂ mass,0.1,28.611281,77.237738,2022-10-31T00:30:00Z,2025-09-21 14:46:44.541833
+6929,"Major Dhyan Chand National Stadium, Delhi - DPCC",India,Delhi Pollution Control Committee,12235050,temperature c,temperature,c,Temperature (C),31.6,28.611281,77.237738,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+6932,"Alipur, Delhi - DPCC",India,Delhi Pollution Control Committee,19939,co µg/m³,co,µg/m³,CO mass,1300.0,28.815329,77.15301,2022-10-31T00:30:00Z,2025-09-21 14:46:44.541833
+6932,"Alipur, Delhi - DPCC",India,Delhi Pollution Control Committee,12235693,co ppb,co,ppb,CO,1.05,28.815329,77.15301,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+6932,"Alipur, Delhi - DPCC",India,Delhi Pollution Control Committee,12235694,no ppb,no,ppb,NO,2.1,28.815329,77.15301,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+6932,"Alipur, Delhi - DPCC",India,Delhi Pollution Control Committee,12235695,no2 ppb,no2,ppb,NO₂,15.5,28.815329,77.15301,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+6932,"Alipur, Delhi - DPCC",India,Delhi Pollution Control Committee,19948,no2 µg/m³,no2,µg/m³,NO₂ mass,45.1,28.815329,77.15301,2022-10-31T00:30:00Z,2025-09-21 14:46:44.541833
+6932,"Alipur, Delhi - DPCC",India,Delhi Pollution Control Committee,19950,o3 µg/m³,o3,µg/m³,O₃ mass,7.5,28.815329,77.15301,2022-10-31T00:30:00Z,2025-09-21 14:46:44.541833
+6932,"Alipur, Delhi - DPCC",India,Delhi Pollution Control Committee,12235696,o3 µg/m³,o3,µg/m³,O₃ mass,42.0,28.815329,77.15301,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+6932,"Alipur, Delhi - DPCC",India,Delhi Pollution Control Committee,12235697,pm10 µg/m³,pm10,µg/m³,PM10,145.0,28.815329,77.15301,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+6932,"Alipur, Delhi - DPCC",India,Delhi Pollution Control Committee,19936,pm10 µg/m³,pm10,µg/m³,PM10,449.0,28.815329,77.15301,2022-10-31T00:30:00Z,2025-09-21 14:46:44.541833
+6932,"Alipur, Delhi - DPCC",India,Delhi Pollution Control Committee,19935,pm25 µg/m³,pm25,µg/m³,PM2.5,290.0,28.815329,77.15301,2022-10-31T00:30:00Z,2025-09-21 14:46:44.541833
+6932,"Alipur, Delhi - DPCC",India,Delhi Pollution Control Committee,12235698,pm25 µg/m³,pm25,µg/m³,PM2.5,34.0,28.815329,77.15301,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+6932,"Alipur, Delhi - DPCC",India,Delhi Pollution Control Committee,12235699,relativehumidity %,relativehumidity,%,RH,57.0,28.815329,77.15301,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+6932,"Alipur, Delhi - DPCC",India,Delhi Pollution Control Committee,12235700,so2 ppb,so2,ppb,SO₂,5.3,28.815329,77.15301,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+6932,"Alipur, Delhi - DPCC",India,Delhi Pollution Control Committee,19912,so2 µg/m³,so2,µg/m³,SO₂ mass,16.5,28.815329,77.15301,2022-10-25T04:45:00Z,2025-09-21 14:46:44.541833
+6932,"Alipur, Delhi - DPCC",India,Delhi Pollution Control Committee,12235701,temperature c,temperature,c,Temperature (C),32.3,28.815329,77.15301,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+6934,"Dr. Karni Singh Shooting Range, Delhi - DPCC",India,Delhi Pollution Control Committee,12235006,co ppb,co,ppb,CO,0.49,28.498571,77.26484,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+6934,"Dr. Karni Singh Shooting Range, Delhi - DPCC",India,Delhi Pollution Control Committee,19925,co µg/m³,co,µg/m³,CO mass,2200.0,28.498571,77.26484,2022-10-31T00:30:00Z,2025-09-21 14:46:44.541833
+6934,"Dr. Karni Singh Shooting Range, Delhi - DPCC",India,Delhi Pollution Control Committee,12235007,no ppb,no,ppb,NO,2.8,28.498571,77.26484,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+6934,"Dr. Karni Singh Shooting Range, Delhi - DPCC",India,Delhi Pollution Control Committee,12235008,no2 ppb,no2,ppb,NO₂,39.9,28.498571,77.26484,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+6934,"Dr. Karni Singh Shooting Range, Delhi - DPCC",India,Delhi Pollution Control Committee,19930,no2 µg/m³,no2,µg/m³,NO₂ mass,97.5,28.498571,77.26484,2022-10-31T00:30:00Z,2025-09-21 14:46:44.541833
+6934,"Dr. Karni Singh Shooting Range, Delhi - DPCC",India,Delhi Pollution Control Committee,12235009,o3 µg/m³,o3,µg/m³,O₃ mass,41.1,28.498571,77.26484,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+6934,"Dr. Karni Singh Shooting Range, Delhi - DPCC",India,Delhi Pollution Control Committee,19917,o3 µg/m³,o3,µg/m³,O₃ mass,2.1,28.498571,77.26484,2022-10-31T00:30:00Z,2025-09-21 14:46:44.541833
+6934,"Dr. Karni Singh Shooting Range, Delhi - DPCC",India,Delhi Pollution Control Committee,19941,pm10 µg/m³,pm10,µg/m³,PM10,354.0,28.498571,77.26484,2022-10-31T00:30:00Z,2025-09-21 14:46:44.541833
+6934,"Dr. Karni Singh Shooting Range, Delhi - DPCC",India,Delhi Pollution Control Committee,12235010,pm10 µg/m³,pm10,µg/m³,PM10,139.0,28.498571,77.26484,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+6934,"Dr. Karni Singh Shooting Range, Delhi - DPCC",India,Delhi Pollution Control Committee,12235011,pm25 µg/m³,pm25,µg/m³,PM2.5,28.0,28.498571,77.26484,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+6934,"Dr. Karni Singh Shooting Range, Delhi - DPCC",India,Delhi Pollution Control Committee,19919,pm25 µg/m³,pm25,µg/m³,PM2.5,245.0,28.498571,77.26484,2022-10-31T00:30:00Z,2025-09-21 14:46:44.541833
+6934,"Dr. Karni Singh Shooting Range, Delhi - DPCC",India,Delhi Pollution Control Committee,12235012,relativehumidity %,relativehumidity,%,RH,62.0,28.498571,77.26484,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+6934,"Dr. Karni Singh Shooting Range, Delhi - DPCC",India,Delhi Pollution Control Committee,19943,so2 µg/m³,so2,µg/m³,SO₂ mass,9.9,28.498571,77.26484,2022-10-31T00:30:00Z,2025-09-21 14:46:44.541833
+6934,"Dr. Karni Singh Shooting Range, Delhi - DPCC",India,Delhi Pollution Control Committee,12235013,so2 ppb,so2,ppb,SO₂,10.2,28.498571,77.26484,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+6934,"Dr. Karni Singh Shooting Range, Delhi - DPCC",India,Delhi Pollution Control Committee,12235014,temperature c,temperature,c,Temperature (C),29.7,28.498571,77.26484,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+6938,"Vivek Vihar, Delhi - DPCC",India,Delhi Pollution Control Committee,19926,co µg/m³,co,µg/m³,CO mass,3200.0,28.672342,77.31526,2022-10-31T00:45:00Z,2025-09-21 14:46:44.541833
+6938,"Vivek Vihar, Delhi - DPCC",India,Delhi Pollution Control Committee,12235128,co ppb,co,ppb,CO,0.74,28.672342,77.31526,2025-09-21T12:15:00Z,2025-09-21 14:46:44.541833
+6938,"Vivek Vihar, Delhi - DPCC",India,Delhi Pollution Control Committee,12235129,no ppb,no,ppb,NO,1.5,28.672342,77.31526,2025-09-21T12:15:00Z,2025-09-21 14:46:44.541833
+6938,"Vivek Vihar, Delhi - DPCC",India,Delhi Pollution Control Committee,12235130,no2 ppb,no2,ppb,NO₂,14.1,28.672342,77.31526,2025-09-21T12:15:00Z,2025-09-21 14:46:44.541833
+6938,"Vivek Vihar, Delhi - DPCC",India,Delhi Pollution Control Committee,19929,no2 µg/m³,no2,µg/m³,NO₂ mass,21.1,28.672342,77.31526,2022-10-31T00:45:00Z,2025-09-21 14:46:44.541833
+6938,"Vivek Vihar, Delhi - DPCC",India,Delhi Pollution Control Committee,12235131,o3 µg/m³,o3,µg/m³,O₃ mass,5.8,28.672342,77.31526,2025-09-21T12:15:00Z,2025-09-21 14:46:44.541833
+6938,"Vivek Vihar, Delhi - DPCC",India,Delhi Pollution Control Committee,19932,o3 µg/m³,o3,µg/m³,O₃ mass,9.0,28.672342,77.31526,2022-10-31T00:45:00Z,2025-09-21 14:46:44.541833
+6938,"Vivek Vihar, Delhi - DPCC",India,Delhi Pollution Control Committee,12235132,pm10 µg/m³,pm10,µg/m³,PM10,160.0,28.672342,77.31526,2025-09-21T12:15:00Z,2025-09-21 14:46:44.541833
+6938,"Vivek Vihar, Delhi - DPCC",India,Delhi Pollution Control Committee,19933,pm10 µg/m³,pm10,µg/m³,PM10,421.0,28.672342,77.31526,2022-10-31T00:45:00Z,2025-09-21 14:46:44.541833
+6938,"Vivek Vihar, Delhi - DPCC",India,Delhi Pollution Control Committee,19934,pm25 µg/m³,pm25,µg/m³,PM2.5,287.0,28.672342,77.31526,2022-10-31T00:45:00Z,2025-09-21 14:46:44.541833
+6938,"Vivek Vihar, Delhi - DPCC",India,Delhi Pollution Control Committee,12235133,pm25 µg/m³,pm25,µg/m³,PM2.5,36.0,28.672342,77.31526,2025-09-21T12:15:00Z,2025-09-21 14:46:44.541833
+6938,"Vivek Vihar, Delhi - DPCC",India,Delhi Pollution Control Committee,12235134,relativehumidity %,relativehumidity,%,RH,54.0,28.672342,77.31526,2025-09-21T12:15:00Z,2025-09-21 14:46:44.541833
+6938,"Vivek Vihar, Delhi - DPCC",India,Delhi Pollution Control Committee,12235135,so2 ppb,so2,ppb,SO₂,18.3,28.672342,77.31526,2025-09-21T12:15:00Z,2025-09-21 14:46:44.541833
+6938,"Vivek Vihar, Delhi - DPCC",India,Delhi Pollution Control Committee,19938,so2 µg/m³,so2,µg/m³,SO₂ mass,0.6,28.672342,77.31526,2022-10-31T00:45:00Z,2025-09-21 14:46:44.541833
+6938,"Vivek Vihar, Delhi - DPCC",India,Delhi Pollution Control Committee,12235136,temperature c,temperature,c,Temperature (C),31.9,28.672342,77.31526,2025-09-21T12:15:00Z,2025-09-21 14:46:44.541833
+6957,"Jawaharlal Nehru Stadium, Delhi - DPCC",India,Delhi Pollution Control Committee,12235033,co ppb,co,ppb,CO,6.17,28.58028,77.233829,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+6957,"Jawaharlal Nehru Stadium, Delhi - DPCC",India,Delhi Pollution Control Committee,20015,co µg/m³,co,µg/m³,CO mass,700.0,28.58028,77.233829,2022-10-31T00:45:00Z,2025-09-21 14:46:44.541833
+6957,"Jawaharlal Nehru Stadium, Delhi - DPCC",India,Delhi Pollution Control Committee,12235034,no ppb,no,ppb,NO,5.2,28.58028,77.233829,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+6957,"Jawaharlal Nehru Stadium, Delhi - DPCC",India,Delhi Pollution Control Committee,12235035,no2 ppb,no2,ppb,NO₂,42.6,28.58028,77.233829,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+6957,"Jawaharlal Nehru Stadium, Delhi - DPCC",India,Delhi Pollution Control Committee,20017,no2 µg/m³,no2,µg/m³,NO₂ mass,88.7,28.58028,77.233829,2022-10-31T00:45:00Z,2025-09-21 14:46:44.541833
+6957,"Jawaharlal Nehru Stadium, Delhi - DPCC",India,Delhi Pollution Control Committee,20018,o3 µg/m³,o3,µg/m³,O₃ mass,9.1,28.58028,77.233829,2022-10-31T00:45:00Z,2025-09-21 14:46:44.541833
+6957,"Jawaharlal Nehru Stadium, Delhi - DPCC",India,Delhi Pollution Control Committee,12235036,o3 µg/m³,o3,µg/m³,O₃ mass,43.6,28.58028,77.233829,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+6957,"Jawaharlal Nehru Stadium, Delhi - DPCC",India,Delhi Pollution Control Committee,20019,pm10 µg/m³,pm10,µg/m³,PM10,317.0,28.58028,77.233829,2022-10-31T00:45:00Z,2025-09-21 14:46:44.541833
+6957,"Jawaharlal Nehru Stadium, Delhi - DPCC",India,Delhi Pollution Control Committee,12235037,pm10 µg/m³,pm10,µg/m³,PM10,143.0,28.58028,77.233829,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+6957,"Jawaharlal Nehru Stadium, Delhi - DPCC",India,Delhi Pollution Control Committee,12235038,pm25 µg/m³,pm25,µg/m³,PM2.5,27.0,28.58028,77.233829,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+6957,"Jawaharlal Nehru Stadium, Delhi - DPCC",India,Delhi Pollution Control Committee,20020,pm25 µg/m³,pm25,µg/m³,PM2.5,235.0,28.58028,77.233829,2022-10-31T00:45:00Z,2025-09-21 14:46:44.541833
+6957,"Jawaharlal Nehru Stadium, Delhi - DPCC",India,Delhi Pollution Control Committee,12235039,relativehumidity %,relativehumidity,%,RH,55.0,28.58028,77.233829,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+6957,"Jawaharlal Nehru Stadium, Delhi - DPCC",India,Delhi Pollution Control Committee,20021,so2 µg/m³,so2,µg/m³,SO₂ mass,12.4,28.58028,77.233829,2022-10-31T00:45:00Z,2025-09-21 14:46:44.541833
+6957,"Jawaharlal Nehru Stadium, Delhi - DPCC",India,Delhi Pollution Control Committee,12235040,so2 ppb,so2,ppb,SO₂,6.2,28.58028,77.233829,2025-09-21T12:15:00Z,2025-09-21 14:46:44.541833
+6957,"Jawaharlal Nehru Stadium, Delhi - DPCC",India,Delhi Pollution Control Committee,12235041,temperature c,temperature,c,Temperature (C),34.0,28.58028,77.233829,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+6960,"Patparganj, Delhi - DPCC",India,Delhi Pollution Control Committee,12235096,co ppb,co,ppb,CO,0.66,28.623748,77.287205,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+6960,"Patparganj, Delhi - DPCC",India,Delhi Pollution Control Committee,12235097,no ppb,no,ppb,NO,3.9,28.623748,77.287205,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+6960,"Patparganj, Delhi - DPCC",India,Delhi Pollution Control Committee,20037,no2 µg/m³,no2,µg/m³,NO₂ mass,89.7,28.623748,77.287205,2022-10-31T00:45:00Z,2025-09-21 14:46:44.541833
+6960,"Patparganj, Delhi - DPCC",India,Delhi Pollution Control Committee,12235098,no2 ppb,no2,ppb,NO₂,22.3,28.623748,77.287205,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+6960,"Patparganj, Delhi - DPCC",India,Delhi Pollution Control Committee,20039,o3 µg/m³,o3,µg/m³,O₃ mass,1.4,28.623748,77.287205,2022-10-31T00:45:00Z,2025-09-21 14:46:44.541833
+6960,"Patparganj, Delhi - DPCC",India,Delhi Pollution Control Committee,12235099,o3 µg/m³,o3,µg/m³,O₃ mass,67.2,28.623748,77.287205,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+6960,"Patparganj, Delhi - DPCC",India,Delhi Pollution Control Committee,20040,pm10 µg/m³,pm10,µg/m³,PM10,354.0,28.623748,77.287205,2022-10-31T00:45:00Z,2025-09-21 14:46:44.541833
+6960,"Patparganj, Delhi - DPCC",India,Delhi Pollution Control Committee,12235100,pm10 µg/m³,pm10,µg/m³,PM10,164.0,28.623748,77.287205,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+6960,"Patparganj, Delhi - DPCC",India,Delhi Pollution Control Committee,20049,pm25 µg/m³,pm25,µg/m³,PM2.5,256.0,28.623748,77.287205,2022-10-31T00:45:00Z,2025-09-21 14:46:44.541833
+6960,"Patparganj, Delhi - DPCC",India,Delhi Pollution Control Committee,12235101,pm25 µg/m³,pm25,µg/m³,PM2.5,46.0,28.623748,77.287205,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+6960,"Patparganj, Delhi - DPCC",India,Delhi Pollution Control Committee,12235102,relativehumidity %,relativehumidity,%,RH,62.0,28.623748,77.287205,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+6960,"Patparganj, Delhi - DPCC",India,Delhi Pollution Control Committee,12235103,so2 ppb,so2,ppb,SO₂,8.5,28.623748,77.287205,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+6960,"Patparganj, Delhi - DPCC",India,Delhi Pollution Control Committee,20055,so2 µg/m³,so2,µg/m³,SO₂ mass,3.6,28.623748,77.287205,2022-10-31T00:45:00Z,2025-09-21 14:46:44.541833
+6960,"Patparganj, Delhi - DPCC",India,Delhi Pollution Control Committee,12235104,temperature c,temperature,c,Temperature (C),31.6,28.623748,77.287205,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+6980,"Sector-1, Noida - UPPCB",India,Uttar Pradesh Pollution Control Board,20186,co µg/m³,co,µg/m³,CO mass,8970.0,28.589247,77.321962,2022-10-13T06:15:00Z,2025-09-21 14:46:44.541833
+6980,"Sector-1, Noida - UPPCB",India,Uttar Pradesh Pollution Control Board,12235946,co ppb,co,ppb,CO,0.56,28.589247,77.321962,2025-09-21T12:15:00Z,2025-09-21 14:46:44.541833
+6980,"Sector-1, Noida - UPPCB",India,Uttar Pradesh Pollution Control Board,12235947,no ppb,no,ppb,NO,3.0,28.589247,77.321962,2025-09-21T12:15:00Z,2025-09-21 14:46:44.541833
+6980,"Sector-1, Noida - UPPCB",India,Uttar Pradesh Pollution Control Board,20187,no2 µg/m³,no2,µg/m³,NO₂ mass,121.1,28.589247,77.321962,2022-10-16T16:00:00Z,2025-09-21 14:46:44.541833
+6980,"Sector-1, Noida - UPPCB",India,Uttar Pradesh Pollution Control Board,12235948,no2 ppb,no2,ppb,NO₂,10.9,28.589247,77.321962,2025-09-21T12:15:00Z,2025-09-21 14:46:44.541833
+6980,"Sector-1, Noida - UPPCB",India,Uttar Pradesh Pollution Control Board,12235949,o3 µg/m³,o3,µg/m³,O₃ mass,64.46,28.589247,77.321962,2025-09-21T12:15:00Z,2025-09-21 14:46:44.541833
+6980,"Sector-1, Noida - UPPCB",India,Uttar Pradesh Pollution Control Board,20189,o3 µg/m³,o3,µg/m³,O₃ mass,7.92,28.589247,77.321962,2022-10-16T16:00:00Z,2025-09-21 14:46:44.541833
+6980,"Sector-1, Noida - UPPCB",India,Uttar Pradesh Pollution Control Board,20194,pm10 µg/m³,pm10,µg/m³,PM10,374.0,28.589247,77.321962,2022-10-16T16:00:00Z,2025-09-21 14:46:44.541833
+6980,"Sector-1, Noida - UPPCB",India,Uttar Pradesh Pollution Control Board,12235950,pm10 µg/m³,pm10,µg/m³,PM10,175.0,28.589247,77.321962,2025-09-21T12:15:00Z,2025-09-21 14:46:44.541833
+6980,"Sector-1, Noida - UPPCB",India,Uttar Pradesh Pollution Control Board,12235951,pm25 µg/m³,pm25,µg/m³,PM2.5,32.0,28.589247,77.321962,2025-09-21T12:15:00Z,2025-09-21 14:46:44.541833
+6980,"Sector-1, Noida - UPPCB",India,Uttar Pradesh Pollution Control Board,20206,pm25 µg/m³,pm25,µg/m³,PM2.5,91.0,28.589247,77.321962,2022-10-16T16:00:00Z,2025-09-21 14:46:44.541833
+6980,"Sector-1, Noida - UPPCB",India,Uttar Pradesh Pollution Control Board,12235952,relativehumidity %,relativehumidity,%,RH,43.0,28.589247,77.321962,2025-09-21T12:15:00Z,2025-09-21 14:46:44.541833
+6980,"Sector-1, Noida - UPPCB",India,Uttar Pradesh Pollution Control Board,20207,so2 µg/m³,so2,µg/m³,SO₂ mass,21.1,28.589247,77.321962,2022-10-16T16:00:00Z,2025-09-21 14:46:44.541833
+6980,"Sector-1, Noida - UPPCB",India,Uttar Pradesh Pollution Control Board,12235953,so2 ppb,so2,ppb,SO₂,5.0,28.589247,77.321962,2025-09-21T12:15:00Z,2025-09-21 14:46:44.541833
+6980,"Sector-1, Noida - UPPCB",India,Uttar Pradesh Pollution Control Board,12235954,temperature c,temperature,c,Temperature (C),35.5,28.589247,77.321962,2025-09-21T12:15:00Z,2025-09-21 14:46:44.541833
+7005,"Loni, Ghaziabad - UPPCB",India,Uttar Pradesh Pollution Control Board,12235783,co ppb,co,ppb,CO,1.27,28.757294,77.278792,2025-09-21T12:15:00Z,2025-09-21 14:46:44.541833
+7005,"Loni, Ghaziabad - UPPCB",India,Uttar Pradesh Pollution Control Board,20295,co µg/m³,co,µg/m³,CO mass,2220.0,28.757294,77.278792,2022-10-31T02:00:00Z,2025-09-21 14:46:44.541833
+7005,"Loni, Ghaziabad - UPPCB",India,Uttar Pradesh Pollution Control Board,12235784,no ppb,no,ppb,NO,3.1,28.757294,77.278792,2025-09-21T12:15:00Z,2025-09-21 14:46:44.541833
+7005,"Loni, Ghaziabad - UPPCB",India,Uttar Pradesh Pollution Control Board,12235785,no2 ppb,no2,ppb,NO₂,22.5,28.757294,77.278792,2025-09-21T12:15:00Z,2025-09-21 14:46:44.541833
+7005,"Loni, Ghaziabad - UPPCB",India,Uttar Pradesh Pollution Control Board,20294,no2 µg/m³,no2,µg/m³,NO₂ mass,70.0,28.757294,77.278792,2022-10-31T02:00:00Z,2025-09-21 14:46:44.541833
+7005,"Loni, Ghaziabad - UPPCB",India,Uttar Pradesh Pollution Control Board,20292,o3 µg/m³,o3,µg/m³,O₃ mass,112.4,28.757294,77.278792,2022-10-26T07:45:00Z,2025-09-21 14:46:44.541833
+7005,"Loni, Ghaziabad - UPPCB",India,Uttar Pradesh Pollution Control Board,12264381,o3 µg/m³,o3,µg/m³,O₃ mass,45.8,28.757294,77.278792,2025-09-21T12:15:00Z,2025-09-21 14:46:44.541833
+7005,"Loni, Ghaziabad - UPPCB",India,Uttar Pradesh Pollution Control Board,12235786,pm10 µg/m³,pm10,µg/m³,PM10,241.0,28.757294,77.278792,2025-09-21T12:15:00Z,2025-09-21 14:46:44.541833
+7005,"Loni, Ghaziabad - UPPCB",India,Uttar Pradesh Pollution Control Board,20293,pm10 µg/m³,pm10,µg/m³,PM10,311.0,28.757294,77.278792,2022-10-31T02:00:00Z,2025-09-21 14:46:44.541833
+7005,"Loni, Ghaziabad - UPPCB",India,Uttar Pradesh Pollution Control Board,20290,pm25 µg/m³,pm25,µg/m³,PM2.5,224.0,28.757294,77.278792,2022-10-31T02:00:00Z,2025-09-21 14:46:44.541833
+7005,"Loni, Ghaziabad - UPPCB",India,Uttar Pradesh Pollution Control Board,12235787,pm25 µg/m³,pm25,µg/m³,PM2.5,54.0,28.757294,77.278792,2025-09-21T12:15:00Z,2025-09-21 14:46:44.541833
+7005,"Loni, Ghaziabad - UPPCB",India,Uttar Pradesh Pollution Control Board,12235788,relativehumidity %,relativehumidity,%,RH,58.0,28.757294,77.278792,2025-09-21T12:15:00Z,2025-09-21 14:46:44.541833
+7005,"Loni, Ghaziabad - UPPCB",India,Uttar Pradesh Pollution Control Board,20291,so2 µg/m³,so2,µg/m³,SO₂ mass,4.1,28.757294,77.278792,2022-10-31T02:00:00Z,2025-09-21 14:46:44.541833
+7005,"Loni, Ghaziabad - UPPCB",India,Uttar Pradesh Pollution Control Board,12235789,so2 ppb,so2,ppb,SO₂,11.8,28.757294,77.278792,2025-09-21T12:15:00Z,2025-09-21 14:46:44.541833
+7005,"Loni, Ghaziabad - UPPCB",India,Uttar Pradesh Pollution Control Board,12235790,temperature c,temperature,c,Temperature (C),35.0,28.757294,77.278792,2025-09-21T12:15:00Z,2025-09-21 14:46:44.541833
+7044,"R K Puram, Delhi - DPCC",India,Unknown Governmental Organization,20410,co µg/m³,co,µg/m³,CO mass,2000.0,28.563262000000005,77.186937,2022-10-30T11:15:00Z,2025-09-21 14:46:44.541833
+7044,"R K Puram, Delhi - DPCC",India,Unknown Governmental Organization,20409,no2 µg/m³,no2,µg/m³,NO₂ mass,90.1,28.563262000000005,77.186937,2022-10-31T00:45:00Z,2025-09-21 14:46:44.541833
+7044,"R K Puram, Delhi - DPCC",India,Unknown Governmental Organization,20406,o3 µg/m³,o3,µg/m³,O₃ mass,8.6,28.563262000000005,77.186937,2022-10-31T00:45:00Z,2025-09-21 14:46:44.541833
+7044,"R K Puram, Delhi - DPCC",India,Unknown Governmental Organization,20407,pm10 µg/m³,pm10,µg/m³,PM10,364.0,28.563262000000005,77.186937,2022-10-31T00:45:00Z,2025-09-21 14:46:44.541833
+7044,"R K Puram, Delhi - DPCC",India,Unknown Governmental Organization,20411,pm25 µg/m³,pm25,µg/m³,PM2.5,268.0,28.563262000000005,77.186937,2022-10-31T00:45:00Z,2025-09-21 14:46:44.541833
+7044,"R K Puram, Delhi - DPCC",India,Unknown Governmental Organization,20408,so2 µg/m³,so2,µg/m³,SO₂ mass,11.0,28.563262000000005,77.186937,2022-10-30T23:00:00Z,2025-09-21 14:46:44.541833
+7434,"East Arjun Nagar, Delhi - CPCB",India,Unknown Governmental Organization,21624,no2 µg/m³,no2,µg/m³,NO₂ mass,95.95,28.655601699999995,77.2859318,2020-02-10T03:00:00Z,2025-09-21 14:46:44.541833
+7434,"East Arjun Nagar, Delhi - CPCB",India,Unknown Governmental Organization,21625,o3 µg/m³,o3,µg/m³,O₃ mass,12.37,28.655601699999995,77.2859318,2020-02-10T03:00:00Z,2025-09-21 14:46:44.541833
+7434,"East Arjun Nagar, Delhi - CPCB",India,Unknown Governmental Organization,21623,so2 µg/m³,so2,µg/m³,SO₂ mass,31.65,28.655601699999995,77.2859318,2020-02-10T03:00:00Z,2025-09-21 14:46:44.541833
+8092,"East Arjun Nagar, Delhi - CPCB",India,Unknown Governmental Organization,23669,no2 µg/m³,no2,µg/m³,NO₂ mass,35.02,28.655935,77.294904,2022-01-26T07:00:00Z,2025-09-21 14:46:44.541833
+8092,"East Arjun Nagar, Delhi - CPCB",India,Unknown Governmental Organization,23465,o3 µg/m³,o3,µg/m³,O₃ mass,105.78,28.655935,77.294904,2022-01-26T07:00:00Z,2025-09-21 14:46:44.541833
+8092,"East Arjun Nagar, Delhi - CPCB",India,Unknown Governmental Organization,34750,so2 µg/m³,so2,µg/m³,SO₂ mass,11.29,28.655935,77.294904,2022-01-26T07:00:00Z,2025-09-21 14:46:44.541833
+8118,New Delhi,India,Unknown Governmental Organization,23534,pm25 µg/m³,pm25,µg/m³,PM2.5,30.0,28.63576,77.22445,2025-09-21T13:30:00Z,2025-09-21 14:46:44.541833
+8235,"Jahangirpuri, Delhi - DPCC",India,Delhi Pollution Control Committee,12235024,co ppb,co,ppb,CO,1.05,28.73282,77.170633,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+8235,"Jahangirpuri, Delhi - DPCC",India,Delhi Pollution Control Committee,23993,co µg/m³,co,µg/m³,CO mass,700.0,28.73282,77.170633,2022-10-31T00:45:00Z,2025-09-21 14:46:44.541833
+8235,"Jahangirpuri, Delhi - DPCC",India,Delhi Pollution Control Committee,12235025,no ppb,no,ppb,NO,4.0,28.73282,77.170633,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+8235,"Jahangirpuri, Delhi - DPCC",India,Delhi Pollution Control Committee,23994,no2 µg/m³,no2,µg/m³,NO₂ mass,82.5,28.73282,77.170633,2022-10-31T00:45:00Z,2025-09-21 14:46:44.541833
+8235,"Jahangirpuri, Delhi - DPCC",India,Delhi Pollution Control Committee,12235026,no2 ppb,no2,ppb,NO₂,34.6,28.73282,77.170633,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+8235,"Jahangirpuri, Delhi - DPCC",India,Delhi Pollution Control Committee,23995,o3 µg/m³,o3,µg/m³,O₃ mass,0.5,28.73282,77.170633,2022-10-30T22:45:00Z,2025-09-21 14:46:44.541833
+8235,"Jahangirpuri, Delhi - DPCC",India,Delhi Pollution Control Committee,12235027,o3 µg/m³,o3,µg/m³,O₃ mass,61.2,28.73282,77.170633,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+8235,"Jahangirpuri, Delhi - DPCC",India,Delhi Pollution Control Committee,12235028,pm10 µg/m³,pm10,µg/m³,PM10,178.0,28.73282,77.170633,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+8235,"Jahangirpuri, Delhi - DPCC",India,Delhi Pollution Control Committee,23996,pm10 µg/m³,pm10,µg/m³,PM10,399.0,28.73282,77.170633,2022-10-31T00:45:00Z,2025-09-21 14:46:44.541833
+8235,"Jahangirpuri, Delhi - DPCC",India,Delhi Pollution Control Committee,23997,pm25 µg/m³,pm25,µg/m³,PM2.5,250.0,28.73282,77.170633,2022-10-31T00:45:00Z,2025-09-21 14:46:44.541833
+8235,"Jahangirpuri, Delhi - DPCC",India,Delhi Pollution Control Committee,12235029,pm25 µg/m³,pm25,µg/m³,PM2.5,120.0,28.73282,77.170633,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+8235,"Jahangirpuri, Delhi - DPCC",India,Delhi Pollution Control Committee,12235030,relativehumidity %,relativehumidity,%,RH,58.0,28.73282,77.170633,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+8235,"Jahangirpuri, Delhi - DPCC",India,Delhi Pollution Control Committee,23998,so2 µg/m³,so2,µg/m³,SO₂ mass,12.6,28.73282,77.170633,2022-10-31T00:45:00Z,2025-09-21 14:46:44.541833
+8235,"Jahangirpuri, Delhi - DPCC",India,Delhi Pollution Control Committee,12235031,so2 ppb,so2,ppb,SO₂,12.9,28.73282,77.170633,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+8235,"Jahangirpuri, Delhi - DPCC",India,Delhi Pollution Control Committee,12235032,temperature c,temperature,c,Temperature (C),29.8,28.73282,77.170633,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+8239,"Okhla Phase-2, Delhi - DPCC",India,Delhi Pollution Control Committee,24010,co µg/m³,co,µg/m³,CO mass,3000.0,28.530785,77.271255,2022-10-31T00:45:00Z,2025-09-21 14:46:44.541833
+8239,"Okhla Phase-2, Delhi - DPCC",India,Delhi Pollution Control Committee,12235069,co ppb,co,ppb,CO,0.58,28.530785,77.271255,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+8239,"Okhla Phase-2, Delhi - DPCC",India,Delhi Pollution Control Committee,12235070,no ppb,no,ppb,NO,1.5,28.530785,77.271255,2025-09-21T03:45:00Z,2025-09-21 14:46:44.541833
+8239,"Okhla Phase-2, Delhi - DPCC",India,Delhi Pollution Control Committee,24008,no2 µg/m³,no2,µg/m³,NO₂ mass,71.5,28.530785,77.271255,2022-10-31T00:45:00Z,2025-09-21 14:46:44.541833
+8239,"Okhla Phase-2, Delhi - DPCC",India,Delhi Pollution Control Committee,12235071,no2 ppb,no2,ppb,NO₂,43.6,28.530785,77.271255,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+8239,"Okhla Phase-2, Delhi - DPCC",India,Delhi Pollution Control Committee,12235072,o3 µg/m³,o3,µg/m³,O₃ mass,65.3,28.530785,77.271255,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+8239,"Okhla Phase-2, Delhi - DPCC",India,Delhi Pollution Control Committee,24012,o3 µg/m³,o3,µg/m³,O₃ mass,6.7,28.530785,77.271255,2022-10-31T00:45:00Z,2025-09-21 14:46:44.541833
+8239,"Okhla Phase-2, Delhi - DPCC",India,Delhi Pollution Control Committee,12235073,pm10 µg/m³,pm10,µg/m³,PM10,172.0,28.530785,77.271255,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+8239,"Okhla Phase-2, Delhi - DPCC",India,Delhi Pollution Control Committee,24011,pm10 µg/m³,pm10,µg/m³,PM10,403.0,28.530785,77.271255,2022-10-31T00:45:00Z,2025-09-21 14:46:44.541833
+8239,"Okhla Phase-2, Delhi - DPCC",India,Delhi Pollution Control Committee,12235074,pm25 µg/m³,pm25,µg/m³,PM2.5,33.0,28.530785,77.271255,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+8239,"Okhla Phase-2, Delhi - DPCC",India,Delhi Pollution Control Committee,24007,pm25 µg/m³,pm25,µg/m³,PM2.5,266.0,28.530785,77.271255,2022-10-31T00:45:00Z,2025-09-21 14:46:44.541833
+8239,"Okhla Phase-2, Delhi - DPCC",India,Delhi Pollution Control Committee,12235075,relativehumidity %,relativehumidity,%,RH,55.0,28.530785,77.271255,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+8239,"Okhla Phase-2, Delhi - DPCC",India,Delhi Pollution Control Committee,24009,so2 µg/m³,so2,µg/m³,SO₂ mass,5.2,28.530785,77.271255,2022-10-31T00:45:00Z,2025-09-21 14:46:44.541833
+8239,"Okhla Phase-2, Delhi - DPCC",India,Delhi Pollution Control Committee,12235076,so2 ppb,so2,ppb,SO₂,4.2,28.530785,77.271255,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+8239,"Okhla Phase-2, Delhi - DPCC",India,Delhi Pollution Control Committee,12235077,temperature c,temperature,c,Temperature (C),31.9,28.530785,77.271255,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+8365,"Nehru Nagar, Delhi - DPCC",India,Delhi Pollution Control Committee,12235078,co ppb,co,ppb,CO,0.01,28.56789,77.250515,2025-09-21T04:00:00Z,2025-09-21 14:46:44.541833
+8365,"Nehru Nagar, Delhi - DPCC",India,Delhi Pollution Control Committee,34799,co µg/m³,co,µg/m³,CO mass,300.0,28.56789,77.250515,2022-10-31T00:45:00Z,2025-09-21 14:46:44.541833
+8365,"Nehru Nagar, Delhi - DPCC",India,Delhi Pollution Control Committee,12235079,no ppb,no,ppb,NO,2.2,28.56789,77.250515,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+8365,"Nehru Nagar, Delhi - DPCC",India,Delhi Pollution Control Committee,12235080,no2 ppb,no2,ppb,NO₂,5.3,28.56789,77.250515,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+8365,"Nehru Nagar, Delhi - DPCC",India,Delhi Pollution Control Committee,24303,no2 µg/m³,no2,µg/m³,NO₂ mass,91.0,28.56789,77.250515,2022-10-31T00:45:00Z,2025-09-21 14:46:44.541833
+8365,"Nehru Nagar, Delhi - DPCC",India,Delhi Pollution Control Committee,35017,o3 µg/m³,o3,µg/m³,O₃ mass,6.8,28.56789,77.250515,2022-10-31T00:45:00Z,2025-09-21 14:46:44.541833
+8365,"Nehru Nagar, Delhi - DPCC",India,Delhi Pollution Control Committee,12235081,o3 µg/m³,o3,µg/m³,O₃ mass,95.2,28.56789,77.250515,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+8365,"Nehru Nagar, Delhi - DPCC",India,Delhi Pollution Control Committee,12235082,pm10 µg/m³,pm10,µg/m³,PM10,119.0,28.56789,77.250515,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+8365,"Nehru Nagar, Delhi - DPCC",India,Delhi Pollution Control Committee,35012,pm10 µg/m³,pm10,µg/m³,PM10,349.0,28.56789,77.250515,2022-10-31T00:45:00Z,2025-09-21 14:46:44.541833
+8365,"Nehru Nagar, Delhi - DPCC",India,Delhi Pollution Control Committee,35010,pm25 µg/m³,pm25,µg/m³,PM2.5,280.0,28.56789,77.250515,2022-10-31T00:45:00Z,2025-09-21 14:46:44.541833
+8365,"Nehru Nagar, Delhi - DPCC",India,Delhi Pollution Control Committee,12235083,pm25 µg/m³,pm25,µg/m³,PM2.5,27.0,28.56789,77.250515,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+8365,"Nehru Nagar, Delhi - DPCC",India,Delhi Pollution Control Committee,12235084,relativehumidity %,relativehumidity,%,RH,44.0,28.56789,77.250515,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+8365,"Nehru Nagar, Delhi - DPCC",India,Delhi Pollution Control Committee,12235085,so2 ppb,so2,ppb,SO₂,7.5,28.56789,77.250515,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+8365,"Nehru Nagar, Delhi - DPCC",India,Delhi Pollution Control Committee,35009,so2 µg/m³,so2,µg/m³,SO₂ mass,5.7,28.56789,77.250515,2022-10-31T00:45:00Z,2025-09-21 14:46:44.541833
+8365,"Nehru Nagar, Delhi - DPCC",India,Delhi Pollution Control Committee,12235086,temperature c,temperature,c,Temperature (C),30.2,28.56789,77.250515,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+8475,"Sonia Vihar, Delhi - DPCC",India,Delhi Pollution Control Committee,24615,co µg/m³,co,µg/m³,CO mass,4.2,28.710508,77.249485,2022-10-31T00:45:00Z,2025-09-21 14:46:44.541833
+8475,"Sonia Vihar, Delhi - DPCC",India,Delhi Pollution Control Committee,12235105,co ppb,co,ppb,CO,0.98,28.710508,77.249485,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+8475,"Sonia Vihar, Delhi - DPCC",India,Delhi Pollution Control Committee,12235106,no ppb,no,ppb,NO,4.1,28.710508,77.249485,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+8475,"Sonia Vihar, Delhi - DPCC",India,Delhi Pollution Control Committee,12235107,no2 ppb,no2,ppb,NO₂,10.6,28.710508,77.249485,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+8475,"Sonia Vihar, Delhi - DPCC",India,Delhi Pollution Control Committee,35047,no2 µg/m³,no2,µg/m³,NO₂ mass,50.0,28.710508,77.249485,2022-10-31T00:45:00Z,2025-09-21 14:46:44.541833
+8475,"Sonia Vihar, Delhi - DPCC",India,Delhi Pollution Control Committee,12235108,o3 µg/m³,o3,µg/m³,O₃ mass,62.3,28.710508,77.249485,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+8475,"Sonia Vihar, Delhi - DPCC",India,Delhi Pollution Control Committee,35048,o3 µg/m³,o3,µg/m³,O₃ mass,3.8,28.710508,77.249485,2022-10-31T00:45:00Z,2025-09-21 14:46:44.541833
+8475,"Sonia Vihar, Delhi - DPCC",India,Delhi Pollution Control Committee,12235109,pm10 µg/m³,pm10,µg/m³,PM10,122.0,28.710508,77.249485,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+8475,"Sonia Vihar, Delhi - DPCC",India,Delhi Pollution Control Committee,35049,pm10 µg/m³,pm10,µg/m³,PM10,427.0,28.710508,77.249485,2022-10-31T00:45:00Z,2025-09-21 14:46:44.541833
+8475,"Sonia Vihar, Delhi - DPCC",India,Delhi Pollution Control Committee,12235110,pm25 µg/m³,pm25,µg/m³,PM2.5,30.0,28.710508,77.249485,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+8475,"Sonia Vihar, Delhi - DPCC",India,Delhi Pollution Control Committee,35050,pm25 µg/m³,pm25,µg/m³,PM2.5,310.0,28.710508,77.249485,2022-10-31T00:45:00Z,2025-09-21 14:46:44.541833
+8475,"Sonia Vihar, Delhi - DPCC",India,Delhi Pollution Control Committee,12235111,relativehumidity %,relativehumidity,%,RH,59.0,28.710508,77.249485,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+8475,"Sonia Vihar, Delhi - DPCC",India,Delhi Pollution Control Committee,35051,so2 µg/m³,so2,µg/m³,SO₂ mass,6.0,28.710508,77.249485,2022-10-31T00:45:00Z,2025-09-21 14:46:44.541833
+8475,"Sonia Vihar, Delhi - DPCC",India,Delhi Pollution Control Committee,12235112,so2 ppb,so2,ppb,SO₂,21.7,28.710508,77.249485,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+8475,"Sonia Vihar, Delhi - DPCC",India,Delhi Pollution Control Committee,12235113,temperature c,temperature,c,Temperature (C),33.0,28.710508,77.249485,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+8915,"Wazirpur, Delhi - DPCC",India,Delhi Pollution Control Committee,12235119,co ppb,co,ppb,CO,0.62,28.699793,77.165453,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+8915,"Wazirpur, Delhi - DPCC",India,Delhi Pollution Control Committee,34728,co µg/m³,co,µg/m³,CO mass,0.1,28.699793,77.165453,2022-10-30T23:00:00Z,2025-09-21 14:46:44.541833
+8915,"Wazirpur, Delhi - DPCC",India,Delhi Pollution Control Committee,12235120,no ppb,no,ppb,NO,9.8,28.699793,77.165453,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+8915,"Wazirpur, Delhi - DPCC",India,Delhi Pollution Control Committee,12235121,no2 ppb,no2,ppb,NO₂,46.0,28.699793,77.165453,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+8915,"Wazirpur, Delhi - DPCC",India,Delhi Pollution Control Committee,34732,no2 µg/m³,no2,µg/m³,NO₂ mass,32.8,28.699793,77.165453,2022-10-31T00:45:00Z,2025-09-21 14:46:44.541833
+8915,"Wazirpur, Delhi - DPCC",India,Delhi Pollution Control Committee,12235122,o3 µg/m³,o3,µg/m³,O₃ mass,55.7,28.699793,77.165453,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+8915,"Wazirpur, Delhi - DPCC",India,Delhi Pollution Control Committee,34730,o3 µg/m³,o3,µg/m³,O₃ mass,5.1,28.699793,77.165453,2022-10-31T00:45:00Z,2025-09-21 14:46:44.541833
+8915,"Wazirpur, Delhi - DPCC",India,Delhi Pollution Control Committee,12235123,pm10 µg/m³,pm10,µg/m³,PM10,193.0,28.699793,77.165453,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+8915,"Wazirpur, Delhi - DPCC",India,Delhi Pollution Control Committee,26026,pm10 µg/m³,pm10,µg/m³,PM10,337.0,28.699793,77.165453,2022-10-31T00:45:00Z,2025-09-21 14:46:44.541833
+8915,"Wazirpur, Delhi - DPCC",India,Delhi Pollution Control Committee,12235124,pm25 µg/m³,pm25,µg/m³,PM2.5,31.0,28.699793,77.165453,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+8915,"Wazirpur, Delhi - DPCC",India,Delhi Pollution Control Committee,34731,pm25 µg/m³,pm25,µg/m³,PM2.5,210.0,28.699793,77.165453,2022-10-31T00:45:00Z,2025-09-21 14:46:44.541833
+8915,"Wazirpur, Delhi - DPCC",India,Delhi Pollution Control Committee,12235125,relativehumidity %,relativehumidity,%,RH,52.0,28.699793,77.165453,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+8915,"Wazirpur, Delhi - DPCC",India,Delhi Pollution Control Committee,12235126,so2 ppb,so2,ppb,SO₂,21.5,28.699793,77.165453,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+8915,"Wazirpur, Delhi - DPCC",India,Delhi Pollution Control Committee,34729,so2 µg/m³,so2,µg/m³,SO₂ mass,7.5,28.699793,77.165453,2022-10-31T00:45:00Z,2025-09-21 14:46:44.541833
+8915,"Wazirpur, Delhi - DPCC",India,Delhi Pollution Control Committee,12235127,temperature c,temperature,c,Temperature (C),31.4,28.699793,77.165453,2025-09-21T12:30:00Z,2025-09-21 14:46:44.541833
+8917,"Ashok Vihar, Delhi - DPCC",India,Delhi Pollution Control Committee,34762,co µg/m³,co,µg/m³,CO mass,,28.695381,77.181665,,2025-09-21 14:46:44.541833
+8917,"Ashok Vihar, Delhi - DPCC",India,Delhi Pollution Control Committee,12234997,co ppb,co,ppb,CO,,28.695381,77.181665,,2025-09-21 14:46:44.541833
+8917,"Ashok Vihar, Delhi - DPCC",India,Delhi Pollution Control Committee,12234998,no ppb,no,ppb,NO,,28.695381,77.181665,,2025-09-21 14:46:44.541833
+8917,"Ashok Vihar, Delhi - DPCC",India,Delhi Pollution Control Committee,12234999,no2 ppb,no2,ppb,NO₂,,28.695381,77.181665,,2025-09-21 14:46:44.541833
+8917,"Ashok Vihar, Delhi - DPCC",India,Delhi Pollution Control Committee,34768,no2 µg/m³,no2,µg/m³,NO₂ mass,,28.695381,77.181665,,2025-09-21 14:46:44.541833
+8917,"Ashok Vihar, Delhi - DPCC",India,Delhi Pollution Control Committee,34782,o3 µg/m³,o3,µg/m³,O₃ mass,,28.695381,77.181665,,2025-09-21 14:46:44.541833
+8917,"Ashok Vihar, Delhi - DPCC",India,Delhi Pollution Control Committee,12235000,o3 µg/m³,o3,µg/m³,O₃ mass,,28.695381,77.181665,,2025-09-21 14:46:44.541833
+8917,"Ashok Vihar, Delhi - DPCC",India,Delhi Pollution Control Committee,12235001,pm10 µg/m³,pm10,µg/m³,PM10,,28.695381,77.181665,,2025-09-21 14:46:44.541833
+8917,"Ashok Vihar, Delhi - DPCC",India,Delhi Pollution Control Committee,34785,pm10 µg/m³,pm10,µg/m³,PM10,,28.695381,77.181665,,2025-09-21 14:46:44.541833
+8917,"Ashok Vihar, Delhi - DPCC",India,Delhi Pollution Control Committee,26032,pm25 µg/m³,pm25,µg/m³,PM2.5,,28.695381,77.181665,,2025-09-21 14:46:44.541833
+8917,"Ashok Vihar, Delhi - DPCC",India,Delhi Pollution Control Committee,12235002,pm25 µg/m³,pm25,µg/m³,PM2.5,,28.695381,77.181665,,2025-09-21 14:46:44.541833
+8917,"Ashok Vihar, Delhi - DPCC",India,Delhi Pollution Control Committee,12235003,relativehumidity %,relativehumidity,%,RH,,28.695381,77.181665,,2025-09-21 14:46:44.541833
+8917,"Ashok Vihar, Delhi - DPCC",India,Delhi Pollution Control Committee,12235004,so2 ppb,so2,ppb,SO₂,,28.695381,77.181665,,2025-09-21 14:46:44.541833
+8917,"Ashok Vihar, Delhi - DPCC",India,Delhi Pollution Control Committee,34786,so2 µg/m³,so2,µg/m³,SO₂ mass,,28.695381,77.181665,,2025-09-21 14:46:44.541833
+8917,"Ashok Vihar, Delhi - DPCC",India,Delhi Pollution Control Committee,12235005,temperature c,temperature,c,Temperature (C),,28.695381,77.181665,,2025-09-21 14:46:44.541833
+10484,"Sri Aurobindo Marg, Delhi - DPCC",India,Delhi Pollution Control Committee,34761,co µg/m³,co,µg/m³,CO mass,,28.531346,77.190156,,2025-09-21 14:46:44.541833
+10484,"Sri Aurobindo Marg, Delhi - DPCC",India,Delhi Pollution Control Committee,12235307,co ppb,co,ppb,CO,,28.531346,77.190156,,2025-09-21 14:46:44.541833
+10484,"Sri Aurobindo Marg, Delhi - DPCC",India,Delhi Pollution Control Committee,12235308,no ppb,no,ppb,NO,,28.531346,77.190156,,2025-09-21 14:46:44.541833
+10484,"Sri Aurobindo Marg, Delhi - DPCC",India,Delhi Pollution Control Committee,12235309,no2 ppb,no2,ppb,NO₂,,28.531346,77.190156,,2025-09-21 14:46:44.541833
+10484,"Sri Aurobindo Marg, Delhi - DPCC",India,Delhi Pollution Control Committee,34758,no2 µg/m³,no2,µg/m³,NO₂ mass,,28.531346,77.190156,,2025-09-21 14:46:44.541833
+10484,"Sri Aurobindo Marg, Delhi - DPCC",India,Delhi Pollution Control Committee,12235310,o3 µg/m³,o3,µg/m³,O₃ mass,,28.531346,77.190156,,2025-09-21 14:46:44.541833
+10484,"Sri Aurobindo Marg, Delhi - DPCC",India,Delhi Pollution Control Committee,34757,o3 µg/m³,o3,µg/m³,O₃ mass,,28.531346,77.190156,,2025-09-21 14:46:44.541833
+10484,"Sri Aurobindo Marg, Delhi - DPCC",India,Delhi Pollution Control Committee,12235311,pm10 µg/m³,pm10,µg/m³,PM10,,28.531346,77.190156,,2025-09-21 14:46:44.541833
+10484,"Sri Aurobindo Marg, Delhi - DPCC",India,Delhi Pollution Control Committee,34781,pm10 µg/m³,pm10,µg/m³,PM10,,28.531346,77.190156,,2025-09-21 14:46:44.541833
+10484,"Sri Aurobindo Marg, Delhi - DPCC",India,Delhi Pollution Control Committee,34772,pm25 µg/m³,pm25,µg/m³,PM2.5,,28.531346,77.190156,,2025-09-21 14:46:44.541833
+10484,"Sri Aurobindo Marg, Delhi - DPCC",India,Delhi Pollution Control Committee,12235312,pm25 µg/m³,pm25,µg/m³,PM2.5,,28.531346,77.190156,,2025-09-21 14:46:44.541833
+10484,"Sri Aurobindo Marg, Delhi - DPCC",India,Delhi Pollution Control Committee,12235313,relativehumidity %,relativehumidity,%,RH,,28.531346,77.190156,,2025-09-21 14:46:44.541833
+10484,"Sri Aurobindo Marg, Delhi - DPCC",India,Delhi Pollution Control Committee,12235314,so2 ppb,so2,ppb,SO₂,,28.531346,77.190156,,2025-09-21 14:46:44.541833
+10484,"Sri Aurobindo Marg, Delhi - DPCC",India,Delhi Pollution Control Committee,34759,so2 µg/m³,so2,µg/m³,SO₂ mass,,28.531346,77.190156,,2025-09-21 14:46:44.541833
+10484,"Sri Aurobindo Marg, Delhi - DPCC",India,Delhi Pollution Control Committee,12235315,temperature c,temperature,c,Temperature (C),,28.531346,77.190156,,2025-09-21 14:46:44.541833
+10487,"Anand Vihar, Delhi - DPCC",India,Unknown Governmental Organization,34787,co µg/m³,co,µg/m³,CO mass,,28.646835,77.316032,,2025-09-21 14:46:44.541833
+10487,"Anand Vihar, Delhi - DPCC",India,Unknown Governmental Organization,34784,no2 µg/m³,no2,µg/m³,NO₂ mass,,28.646835,77.316032,,2025-09-21 14:46:44.541833
+10487,"Anand Vihar, Delhi - DPCC",India,Unknown Governmental Organization,34783,o3 µg/m³,o3,µg/m³,O₃ mass,,28.646835,77.316032,,2025-09-21 14:46:44.541833
+10487,"Anand Vihar, Delhi - DPCC",India,Unknown Governmental Organization,34780,pm10 µg/m³,pm10,µg/m³,PM10,,28.646835,77.316032,,2025-09-21 14:46:44.541833
+10487,"Anand Vihar, Delhi - DPCC",India,Unknown Governmental Organization,34771,pm25 µg/m³,pm25,µg/m³,PM2.5,,28.646835,77.316032,,2025-09-21 14:46:44.541833
+10487,"Anand Vihar, Delhi - DPCC",India,Unknown Governmental Organization,34770,so2 µg/m³,so2,µg/m³,SO₂ mass,,28.646835,77.316032,,2025-09-21 14:46:44.541833
+10489,"ITO, Delhi - CPCB",India,Unknown Governmental Organization,34823,co µg/m³,co,µg/m³,CO mass,,28.628624,77.24106,,2025-09-21 14:46:44.541833
+10489,"ITO, Delhi - CPCB",India,Unknown Governmental Organization,34821,no2 µg/m³,no2,µg/m³,NO₂ mass,,28.628624,77.24106,,2025-09-21 14:46:44.541833
+10489,"ITO, Delhi - CPCB",India,Unknown Governmental Organization,34816,o3 µg/m³,o3,µg/m³,O₃ mass,,28.628624,77.24106,,2025-09-21 14:46:44.541833
+10489,"ITO, Delhi - CPCB",India,Unknown Governmental Organization,34793,pm10 µg/m³,pm10,µg/m³,PM10,,28.628624,77.24106,,2025-09-21 14:46:44.541833
+10489,"ITO, Delhi - CPCB",India,Unknown Governmental Organization,35016,pm25 µg/m³,pm25,µg/m³,PM2.5,,28.628624,77.24106,,2025-09-21 14:46:44.541833
+10489,"ITO, Delhi - CPCB",India,Unknown Governmental Organization,35015,so2 µg/m³,so2,µg/m³,SO₂ mass,,28.628624,77.24106,,2025-09-21 14:46:44.541833
+10820,"Sector 30, Faridabad - HSPCB",India,Haryana State Pollution Control Board,12236231,co ppb,co,ppb,CO,,28.4417,77.3217,,2025-09-21 14:46:44.541833
+10820,"Sector 30, Faridabad - HSPCB",India,Haryana State Pollution Control Board,12236232,no ppb,no,ppb,NO,,28.4417,77.3217,,2025-09-21 14:46:44.541833
+10820,"Sector 30, Faridabad - HSPCB",India,Haryana State Pollution Control Board,12236233,no2 ppb,no2,ppb,NO₂,,28.4417,77.3217,,2025-09-21 14:46:44.541833
+10820,"Sector 30, Faridabad - HSPCB",India,Haryana State Pollution Control Board,12236234,o3 µg/m³,o3,µg/m³,O₃ mass,,28.4417,77.3217,,2025-09-21 14:46:44.541833
+10820,"Sector 30, Faridabad - HSPCB",India,Haryana State Pollution Control Board,12236235,pm10 µg/m³,pm10,µg/m³,PM10,,28.4417,77.3217,,2025-09-21 14:46:44.541833
+10820,"Sector 30, Faridabad - HSPCB",India,Haryana State Pollution Control Board,12236236,pm25 µg/m³,pm25,µg/m³,PM2.5,,28.4417,77.3217,,2025-09-21 14:46:44.541833
+10820,"Sector 30, Faridabad - HSPCB",India,Haryana State Pollution Control Board,12236237,relativehumidity %,relativehumidity,%,RH,,28.4417,77.3217,,2025-09-21 14:46:44.541833
+10820,"Sector 30, Faridabad - HSPCB",India,Haryana State Pollution Control Board,12236238,so2 ppb,so2,ppb,SO₂,,28.4417,77.3217,,2025-09-21 14:46:44.541833
+10820,"Sector 30, Faridabad - HSPCB",India,Haryana State Pollution Control Board,12236239,temperature c,temperature,c,Temperature (C),,28.4417,77.3217,,2025-09-21 14:46:44.541833
+10831,"Rohini, Delhi - DPCC",India,Delhi Pollution Control Committee,12235087,co ppb,co,ppb,CO,,28.732528,77.11992,,2025-09-21 14:46:44.541833
+10831,"Rohini, Delhi - DPCC",India,Delhi Pollution Control Committee,36208,co µg/m³,co,µg/m³,CO mass,,28.732528,77.11992,,2025-09-21 14:46:44.541833
+10831,"Rohini, Delhi - DPCC",India,Delhi Pollution Control Committee,12235088,no ppb,no,ppb,NO,,28.732528,77.11992,,2025-09-21 14:46:44.541833
+10831,"Rohini, Delhi - DPCC",India,Delhi Pollution Control Committee,36209,no2 µg/m³,no2,µg/m³,NO₂ mass,,28.732528,77.11992,,2025-09-21 14:46:44.541833
+10831,"Rohini, Delhi - DPCC",India,Delhi Pollution Control Committee,12235089,no2 ppb,no2,ppb,NO₂,,28.732528,77.11992,,2025-09-21 14:46:44.541833
+10831,"Rohini, Delhi - DPCC",India,Delhi Pollution Control Committee,12235090,o3 µg/m³,o3,µg/m³,O₃ mass,,28.732528,77.11992,,2025-09-21 14:46:44.541833
+10831,"Rohini, Delhi - DPCC",India,Delhi Pollution Control Committee,36213,o3 µg/m³,o3,µg/m³,O₃ mass,,28.732528,77.11992,,2025-09-21 14:46:44.541833
+10831,"Rohini, Delhi - DPCC",India,Delhi Pollution Control Committee,36382,pm10 µg/m³,pm10,µg/m³,PM10,,28.732528,77.11992,,2025-09-21 14:46:44.541833
+10831,"Rohini, Delhi - DPCC",India,Delhi Pollution Control Committee,12235091,pm10 µg/m³,pm10,µg/m³,PM10,,28.732528,77.11992,,2025-09-21 14:46:44.541833
+10831,"Rohini, Delhi - DPCC",India,Delhi Pollution Control Committee,36399,pm25 µg/m³,pm25,µg/m³,PM2.5,,28.732528,77.11992,,2025-09-21 14:46:44.541833
+10831,"Rohini, Delhi - DPCC",India,Delhi Pollution Control Committee,12235092,pm25 µg/m³,pm25,µg/m³,PM2.5,,28.732528,77.11992,,2025-09-21 14:46:44.541833
+10831,"Rohini, Delhi - DPCC",India,Delhi Pollution Control Committee,12235093,relativehumidity %,relativehumidity,%,RH,,28.732528,77.11992,,2025-09-21 14:46:44.541833
+10831,"Rohini, Delhi - DPCC",India,Delhi Pollution Control Committee,12235094,so2 ppb,so2,ppb,SO₂,,28.732528,77.11992,,2025-09-21 14:46:44.541833
+10831,"Rohini, Delhi - DPCC",India,Delhi Pollution Control Committee,36449,so2 µg/m³,so2,µg/m³,SO₂ mass,,28.732528,77.11992,,2025-09-21 14:46:44.541833
+10831,"Rohini, Delhi - DPCC",India,Delhi Pollution Control Committee,12235095,temperature c,temperature,c,Temperature (C),,28.732528,77.11992,,2025-09-21 14:46:44.541833
+10900,"Teri Gram, Gurugram - HSPCB",India,Haryana State Pollution Control Board,36534,co µg/m³,co,µg/m³,CO mass,,28.4275,77.1465,,2025-09-21 14:46:44.541833
+10900,"Teri Gram, Gurugram - HSPCB",India,Haryana State Pollution Control Board,36535,no2 µg/m³,no2,µg/m³,NO₂ mass,,28.4275,77.1465,,2025-09-21 14:46:44.541833
+10900,"Teri Gram, Gurugram - HSPCB",India,Haryana State Pollution Control Board,12236249,o3 µg/m³,o3,µg/m³,O₃ mass,,28.4275,77.1465,,2025-09-21 14:46:44.541833
+10900,"Teri Gram, Gurugram - HSPCB",India,Haryana State Pollution Control Board,36536,o3 µg/m³,o3,µg/m³,O₃ mass,,28.4275,77.1465,,2025-09-21 14:46:44.541833
+10900,"Teri Gram, Gurugram - HSPCB",India,Haryana State Pollution Control Board,36538,pm10 µg/m³,pm10,µg/m³,PM10,,28.4275,77.1465,,2025-09-21 14:46:44.541833
+10900,"Teri Gram, Gurugram - HSPCB",India,Haryana State Pollution Control Board,12236250,pm10 µg/m³,pm10,µg/m³,PM10,,28.4275,77.1465,,2025-09-21 14:46:44.541833
+10900,"Teri Gram, Gurugram - HSPCB",India,Haryana State Pollution Control Board,36539,pm25 µg/m³,pm25,µg/m³,PM2.5,,28.4275,77.1465,,2025-09-21 14:46:44.541833
+10900,"Teri Gram, Gurugram - HSPCB",India,Haryana State Pollution Control Board,12236251,pm25 µg/m³,pm25,µg/m³,PM2.5,,28.4275,77.1465,,2025-09-21 14:46:44.541833
+10900,"Teri Gram, Gurugram - HSPCB",India,Haryana State Pollution Control Board,12236252,relativehumidity %,relativehumidity,%,RH,,28.4275,77.1465,,2025-09-21 14:46:44.541833
+10900,"Teri Gram, Gurugram - HSPCB",India,Haryana State Pollution Control Board,36540,so2 µg/m³,so2,µg/m³,SO₂ mass,,28.4275,77.1465,,2025-09-21 14:46:44.541833
+10900,"Teri Gram, Gurugram - HSPCB",India,Haryana State Pollution Control Board,12236253,temperature c,temperature,c,Temperature (C),,28.4275,77.1465,,2025-09-21 14:46:44.541833
+10921,"NISE Gwal Pahari, Gurugram - IMD",India,India Meteorological Department,12235702,co ppb,co,ppb,CO,,28.422681,77.148944,,2025-09-21 14:46:44.541833
+10921,"NISE Gwal Pahari, Gurugram - IMD",India,India Meteorological Department,36700,co µg/m³,co,µg/m³,CO mass,,28.422681,77.148944,,2025-09-21 14:46:44.541833
+10921,"NISE Gwal Pahari, Gurugram - IMD",India,India Meteorological Department,12235703,no ppb,no,ppb,NO,,28.422681,77.148944,,2025-09-21 14:46:44.541833
+10921,"NISE Gwal Pahari, Gurugram - IMD",India,India Meteorological Department,36702,no2 µg/m³,no2,µg/m³,NO₂ mass,,28.422681,77.148944,,2025-09-21 14:46:44.541833
+10921,"NISE Gwal Pahari, Gurugram - IMD",India,India Meteorological Department,12235704,no2 ppb,no2,ppb,NO₂,,28.422681,77.148944,,2025-09-21 14:46:44.541833
+10921,"NISE Gwal Pahari, Gurugram - IMD",India,India Meteorological Department,12235705,o3 µg/m³,o3,µg/m³,O₃ mass,,28.422681,77.148944,,2025-09-21 14:46:44.541833
+10921,"NISE Gwal Pahari, Gurugram - IMD",India,India Meteorological Department,36703,pm10 µg/m³,pm10,µg/m³,PM10,,28.422681,77.148944,,2025-09-21 14:46:44.541833
+10921,"NISE Gwal Pahari, Gurugram - IMD",India,India Meteorological Department,12235706,pm10 µg/m³,pm10,µg/m³,PM10,,28.422681,77.148944,,2025-09-21 14:46:44.541833
+10921,"NISE Gwal Pahari, Gurugram - IMD",India,India Meteorological Department,36701,pm25 µg/m³,pm25,µg/m³,PM2.5,,28.422681,77.148944,,2025-09-21 14:46:44.541833
+10921,"NISE Gwal Pahari, Gurugram - IMD",India,India Meteorological Department,12235707,pm25 µg/m³,pm25,µg/m³,PM2.5,,28.422681,77.148944,,2025-09-21 14:46:44.541833
+11603,"Chandni Chowk, Delhi - IITM",India,Indian Institute of Tropical Meteorology,12236356,co ppb,co,ppb,CO,,28.656756,77.227234,,2025-09-21 14:46:44.541833
+11603,"Chandni Chowk, Delhi - IITM",India,Indian Institute of Tropical Meteorology,39414,co µg/m³,co,µg/m³,CO mass,,28.656756,77.227234,,2025-09-21 14:46:44.541833
+11603,"Chandni Chowk, Delhi - IITM",India,Indian Institute of Tropical Meteorology,12236357,no ppb,no,ppb,NO,,28.656756,77.227234,,2025-09-21 14:46:44.541833
+11603,"Chandni Chowk, Delhi - IITM",India,Indian Institute of Tropical Meteorology,12236358,no2 ppb,no2,ppb,NO₂,,28.656756,77.227234,,2025-09-21 14:46:44.541833
+11603,"Chandni Chowk, Delhi - IITM",India,Indian Institute of Tropical Meteorology,39412,no2 µg/m³,no2,µg/m³,NO₂ mass,,28.656756,77.227234,,2025-09-21 14:46:44.541833
+11603,"Chandni Chowk, Delhi - IITM",India,Indian Institute of Tropical Meteorology,12236359,o3 µg/m³,o3,µg/m³,O₃ mass,,28.656756,77.227234,,2025-09-21 14:46:44.541833
+11603,"Chandni Chowk, Delhi - IITM",India,Indian Institute of Tropical Meteorology,39415,o3 µg/m³,o3,µg/m³,O₃ mass,,28.656756,77.227234,,2025-09-21 14:46:44.541833
+11603,"Chandni Chowk, Delhi - IITM",India,Indian Institute of Tropical Meteorology,12236360,pm10 µg/m³,pm10,µg/m³,PM10,,28.656756,77.227234,,2025-09-21 14:46:44.541833
+11603,"Chandni Chowk, Delhi - IITM",India,Indian Institute of Tropical Meteorology,39411,pm10 µg/m³,pm10,µg/m³,PM10,,28.656756,77.227234,,2025-09-21 14:46:44.541833
+11603,"Chandni Chowk, Delhi - IITM",India,Indian Institute of Tropical Meteorology,12236361,pm25 µg/m³,pm25,µg/m³,PM2.5,,28.656756,77.227234,,2025-09-21 14:46:44.541833
+11603,"Chandni Chowk, Delhi - IITM",India,Indian Institute of Tropical Meteorology,39410,pm25 µg/m³,pm25,µg/m³,PM2.5,,28.656756,77.227234,,2025-09-21 14:46:44.541833
+11603,"Chandni Chowk, Delhi - IITM",India,Indian Institute of Tropical Meteorology,12236362,relativehumidity %,relativehumidity,%,RH,,28.656756,77.227234,,2025-09-21 14:46:44.541833
+11603,"Chandni Chowk, Delhi - IITM",India,Indian Institute of Tropical Meteorology,12236363,so2 ppb,so2,ppb,SO₂,,28.656756,77.227234,,2025-09-21 14:46:44.541833
+11603,"Chandni Chowk, Delhi - IITM",India,Indian Institute of Tropical Meteorology,39413,so2 µg/m³,so2,µg/m³,SO₂ mass,,28.656756,77.227234,,2025-09-21 14:46:44.541833
+11603,"Chandni Chowk, Delhi - IITM",India,Indian Institute of Tropical Meteorology,12236364,temperature c,temperature,c,Temperature (C),,28.656756,77.227234,,2025-09-21 14:46:44.541833
+11607,"Lodhi Road, Delhi - IITM",India,Indian Institute of Tropical Meteorology,39437,co µg/m³,co,µg/m³,CO mass,,28.588333,77.221667,,2025-09-21 14:46:44.541833
+11607,"Lodhi Road, Delhi - IITM",India,Indian Institute of Tropical Meteorology,12236374,no2 ppb,no2,ppb,NO₂,,28.588333,77.221667,,2025-09-21 14:46:44.541833
+11607,"Lodhi Road, Delhi - IITM",India,Indian Institute of Tropical Meteorology,39435,no2 µg/m³,no2,µg/m³,NO₂ mass,,28.588333,77.221667,,2025-09-21 14:46:44.541833
+11607,"Lodhi Road, Delhi - IITM",India,Indian Institute of Tropical Meteorology,39438,o3 µg/m³,o3,µg/m³,O₃ mass,,28.588333,77.221667,,2025-09-21 14:46:44.541833
+11607,"Lodhi Road, Delhi - IITM",India,Indian Institute of Tropical Meteorology,39434,pm10 µg/m³,pm10,µg/m³,PM10,,28.588333,77.221667,,2025-09-21 14:46:44.541833
+11607,"Lodhi Road, Delhi - IITM",India,Indian Institute of Tropical Meteorology,12236375,pm10 µg/m³,pm10,µg/m³,PM10,,28.588333,77.221667,,2025-09-21 14:46:44.541833
+11607,"Lodhi Road, Delhi - IITM",India,Indian Institute of Tropical Meteorology,39433,pm25 µg/m³,pm25,µg/m³,PM2.5,,28.588333,77.221667,,2025-09-21 14:46:44.541833
+11607,"Lodhi Road, Delhi - IITM",India,Indian Institute of Tropical Meteorology,12236376,pm25 µg/m³,pm25,µg/m³,PM2.5,,28.588333,77.221667,,2025-09-21 14:46:44.541833
+11607,"Lodhi Road, Delhi - IITM",India,Indian Institute of Tropical Meteorology,12236377,relativehumidity %,relativehumidity,%,RH,,28.588333,77.221667,,2025-09-21 14:46:44.541833
+11607,"Lodhi Road, Delhi - IITM",India,Indian Institute of Tropical Meteorology,39436,so2 µg/m³,so2,µg/m³,SO₂ mass,,28.588333,77.221667,,2025-09-21 14:46:44.541833
+11607,"Lodhi Road, Delhi - IITM",India,Indian Institute of Tropical Meteorology,12236378,so2 ppb,so2,ppb,SO₂,,28.588333,77.221667,,2025-09-21 14:46:44.541833
+11607,"Lodhi Road, Delhi - IITM",India,Indian Institute of Tropical Meteorology,12236379,temperature c,temperature,c,Temperature (C),,28.588333,77.221667,,2025-09-21 14:46:44.541833
+2860223,GK1 (Oberoi Terrace),India,Unknown Person,9320365,pm1 µg/m³,pm1,µg/m³,PM1,,28.5500047,77.2431058,,2025-09-21 14:46:44.541833
+2860223,GK1 (Oberoi Terrace),India,Unknown Person,9320368,pm10 µg/m³,pm10,µg/m³,PM10,,28.5500047,77.2431058,,2025-09-21 14:46:44.541833
+2860223,GK1 (Oberoi Terrace),India,Unknown Person,9320367,pm25 µg/m³,pm25,µg/m³,PM2.5,,28.5500047,77.2431058,,2025-09-21 14:46:44.541833
+2860223,GK1 (Oberoi Terrace),India,Unknown Person,9320350,relativehumidity %,relativehumidity,%,RH,,28.5500047,77.2431058,,2025-09-21 14:46:44.541833
+2860223,GK1 (Oberoi Terrace),India,Unknown Person,9320356,temperature c,temperature,c,Temperature (C),,28.5500047,77.2431058,,2025-09-21 14:46:44.541833
+2860223,GK1 (Oberoi Terrace),India,Unknown Person,9320361,um003 particles/cm³,um003,particles/cm³,PM0.3 count,,28.5500047,77.2431058,,2025-09-21 14:46:44.541833
+4663956,"Santushti Apartments, Vasant Kunj",India,Rafi,13273789,pm1 µg/m³,pm1,µg/m³,PM1,,28.5266,77.1493,,2025-09-21 14:46:44.541833
+4663956,"Santushti Apartments, Vasant Kunj",India,Rafi,13273790,pm25 µg/m³,pm25,µg/m³,PM2.5,,28.5266,77.1493,,2025-09-21 14:46:44.541833
+4663956,"Santushti Apartments, Vasant Kunj",India,Rafi,13273791,relativehumidity %,relativehumidity,%,RH,,28.5266,77.1493,,2025-09-21 14:46:44.541833
+4663956,"Santushti Apartments, Vasant Kunj",India,Rafi,13273792,temperature c,temperature,c,Temperature (C),,28.5266,77.1493,,2025-09-21 14:46:44.541833
+4663956,"Santushti Apartments, Vasant Kunj",India,Rafi,13273793,um003 particles/cm³,um003,particles/cm³,PM0.3 count,,28.5266,77.1493,,2025-09-21 14:46:44.541833

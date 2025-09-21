@@ -57,7 +57,7 @@ for Location_id in df['location_id'].unique():
         continue
 
 # Step 4: Save to CSV (append if file exists)
-file_path = 'delhi_air_quality_data.csv'
+file_path = 'data/delhi_air_quality_data.csv'
 
 if os.path.exists(file_path):
     # Append to existing file without writing headers

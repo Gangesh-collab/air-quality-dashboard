@@ -38,8 +38,8 @@ jobs:
     - name: Verify CSV was created
       id: verify
       run: |
-        if [ ! -f "data/latest_aqi.csv" ]; then
-          echo "File data/latest_aqi.csv not found!"
+        if [ ! -f "data/delhi_air_quality_data.csv" ]; then
+          echo "File data/delhi_air_quality_data.csv not found!"
           exit 1
         fi
         

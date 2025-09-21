@@ -1,58 +1,69 @@
 import pandas as pd
-import requests
-from datetime import datetime
+from openaq import OpenAQ
 import os
-import time
+from datetime import datetime
 
-def get_openaq_data():
-    url = "https://api.openaq.org/v3/measurements"
-    headers = {
-        "X-API-Key": ""  # No longer required for v3
-    }
-    params = {
-        'limit': 100,
-        'parameter': ['pm25'],
-        'sort': 'desc',
-        'date_from': datetime.utcnow().strftime('%Y-%m-%dT00:00:00Z')
-    }
-    
-    try:
-        response = requests.get(url, headers=headers, params=params)
-        response.raise_for_status()
-        
-        data = response.json()
-        
-        # Debug: Uncomment to see full response
-        # print("API Response:", data)
-        
-        if 'results' not in data:
-            raise ValueError(f"Unexpected API format. Full response: {data}")
-            
-        df = pd.json_normalize(data['results'])
-        
-        # Standardize column names
-        df = df.rename(columns={
-            'value': 'pm25',
-            'location': 'location_name',
-            'coordinates.latitude': 'latitude',
-            'coordinates.longitude': 'longitude'
+current_time = datetime.now()
+
+# Initialize client
+client = OpenAQ(api_key='9532f24560378a32472d71772950f5dd063cfdacbb769e00ea9d4ed05a93fa9a')
+
+# Step 1: Get all locations in Delhi bounding box
+locations = client.locations.list(
+    bbox=(77.102, 28.404, 77.348, 28.883), 
+    limit=1000
+)
+
+# Step 2: Create empty DataFrame structure
+rows = []
+for location in locations.results:
+    for sensor in location.sensors:
+        rows.append({
+            'location_id': location.id,
+            'location_name': location.name,
+            'location_country': location.country.name,
+            'owner': location.owner.name,
+            'sensor_id': sensor.id,
+            'sensor_name': sensor.name,
+            'parameter_name': sensor.parameter.name,
+            'parameter_units': sensor.parameter.units,
+            'parameter_display_name': sensor.parameter.display_name,
+            'value': None,  # Empty value to be filled later
+            'latitude': location.coordinates.latitude,
+            'longitude': location.coordinates.longitude,
+            'last_updated': None,
+            'sysDate': current_time
         })
+
+# Create DataFrame
+df = pd.DataFrame(rows)
+
+# Step 3: Fetch values for each location and update DataFrame
+for Location_id in df['location_id'].unique():
+    try:
+        # Get latest measurements for this location
+        measurements = client.locations.latest(locations_id=Location_id)
         
-        df['timestamp'] = datetime.utcnow().isoformat()
-        return df
-        
+        if measurements.meta.found > 0:
+            # Update DataFrame with values
+            for latest in measurements.results:
+                # Find the corresponding row in DataFrame
+                mask = (df['location_id'] == Location_id) & (df['sensor_id'] == latest.sensors_id)
+                if mask.any():
+                    df.loc[mask, 'value'] = latest.value
+                    df.loc[mask, 'last_updated'] = latest.datetime['utc']
     except Exception as e:
-        print(f"API Error: {str(e)}")
-        return pd.DataFrame()
+        # Silently continue on error
+        continue
 
-# Main execution
-os.makedirs('data', exist_ok=True)
+# Step 4: Save to CSV (append if file exists)
+file_path = 'delhi_air_quality_data.csv'
 
-df = get_openaq_data()
-if not df.empty:
-    df.to_csv('data/latest_aqi.csv', index=False)
-    print(f"Saved {len(df)} records")
+if os.path.exists(file_path):
+    # Append to existing file without writing headers
+    df.to_csv(file_path, mode='a', header=False, index=False, encoding='utf-8-sig')
 else:
-    # Create empty file to maintain workflow
-    pd.DataFrame(columns=['pm25','location_name','latitude','longitude','timestamp']).to_csv('data/latest_aqi.csv', index=False)
-    print("Created empty file as fallback")
+    # Create new file with headers
+    df.to_csv(file_path, index=False, encoding='utf-8-sig')
+
+client.close()

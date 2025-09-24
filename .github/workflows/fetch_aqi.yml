@@ -2,7 +2,7 @@ name: Air Quality Data Fetch
 
 on:
   schedule:
-  - cron: '0 */3 * * *'  # Runs every 3 hours starting from 12 AM
+    - cron: '0 */3 * * *'  # Runs every 3 hours starting from 12 AM
   timezone: 'Asia/Kolkata'
   workflow_dispatch:        # Allows manual triggering
 
